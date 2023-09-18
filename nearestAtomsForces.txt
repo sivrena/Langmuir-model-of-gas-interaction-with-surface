@@ -1,0 +1,3400 @@
+
+Step 1
+Atom # 1, coordinates [1.  0.8 0. ], distance to Ag 6.003332407921453
+Interaction force [0. 0. 0.]
+
+Atom # 2, coordinates [2.  0.8 0. ], distance to Ag 6.086049621881176
+Interaction force [0. 0. 0.]
+
+Atom # 16, coordinates [4.  3.2 0. ], distance to Ag 7.059745037889116
+Interaction force [0. 0. 0.]
+
+Atom # 19, coordinates [3. 4. 0.], distance to Ag 7.0
+Interaction force [0. 0. 0.]
+
+Atom # 20, coordinates [4. 4. 0.], distance to Ag 7.3484692283495345
+Interaction force [0. 0. 0.]
+
+
+Step 2
+Atom # 1, coordinates [1.00000001 0.8        0.        ], distance to Ag 6.003327893228473
+Interaction force [0.07382817 0.03758253 0.        ]
+
+Atom # 2, coordinates [2.00000001 0.80000001 0.        ], distance to Ag 6.086045023018387
+Interaction force [0.05138348 0.06733625 0.        ]
+
+Atom # 16, coordinates [3.99999999 3.19999999 0.        ], distance to Ag 7.059740531764984
+Interaction force [-0.09772366 -0.07926738  0.        ]
+
+Atom # 19, coordinates [2.99999999 3.99999999 0.        ], distance to Ag 6.999995490730308
+Interaction force [-0.05138348 -0.06733625  0.        ]
+
+Atom # 20, coordinates [3.99999999 4.         0.        ], distance to Ag 7.348464811246062
+Interaction force [-0.07382817 -0.03758253  0.        ]
+
+
+Step 3
+Atom # 1, coordinates [1.00000005 0.80000003 0.        ], distance to Ag 6.003305319722658
+Interaction force [0.14765635 0.07516507 0.        ]
+
+Atom # 2, coordinates [2.00000003 0.80000005 0.        ], distance to Ag 6.086022028660781
+Interaction force [0.10276697 0.13467251 0.        ]
+
+Atom # 16, coordinates [3.99999993 3.19999995 0.        ], distance to Ag 7.059718001103454
+Interaction force [-0.19544733 -0.15853476  0.        ]
+
+Atom # 19, coordinates [2.99999997 3.99999995 0.        ], distance to Ag 6.999972944340859
+Interaction force [-0.10276697 -0.13467251  0.        ]
+
+Atom # 20, coordinates [3.99999995 3.99999997 0.        ], distance to Ag 7.348442725690163
+Interaction force [-0.14765635 -0.07516507  0.        ]
+
+
+Step 4
+Atom # 1, coordinates [1.00000014 0.80000007 0.        ], distance to Ag 6.003255657772845
+Interaction force [0.22148453 0.11274761 0.        ]
+
+Atom # 2, coordinates [2.0000001  0.80000013 0.        ], distance to Ag 6.0859714408209555
+Interaction force [0.15415044 0.20200878 0.        ]
+
+Atom # 16, coordinates [3.99999981 3.19999985 0.        ], distance to Ag 7.0596684334113
+Interaction force [-0.29317099 -0.23780212  0.        ]
+
+Atom # 19, coordinates [2.9999999  3.99999987 0.        ], distance to Ag 6.9999233420465945
+Interaction force [-0.15415044 -0.20200878  0.        ]
+
+Atom # 20, coordinates [3.99999986 3.99999993 0.        ], distance to Ag 7.348394137244028
+Interaction force [-0.22148453 -0.11274761  0.        ]
+
+
+Step 5
+Atom # 1, coordinates [1.0000003  0.80000015 0.        ], distance to Ag 6.00316987730095
+Interaction force [0.29531271 0.15033019 0.        ]
+
+Atom # 2, coordinates [2.00000021 0.80000027 0.        ], distance to Ag 6.085884061032913
+Interaction force [0.2055339  0.26934507 0.        ]
+
+Atom # 16, coordinates [3.99999961 3.19999968 0.        ], distance to Ag 7.059582815748595
+Interaction force [-0.39089466 -0.31706943  0.        ]
+
+Atom # 19, coordinates [2.99999979 3.99999973 0.        ], distance to Ag 6.999837664614414
+Interaction force [-0.2055339  -0.26934507  0.        ]
+
+Atom # 20, coordinates [3.9999997  3.99999985 0.        ], distance to Ag 7.348310211049865
+Interaction force [-0.29531271 -0.15033019  0.        ]
+
+
+Step 6
+Atom # 1, coordinates [1.00000054 0.80000027 0.        ], distance to Ag 6.003038947460316
+Interaction force [0.36914091 0.18791281 0.        ]
+
+Atom # 2, coordinates [2.00000037 0.80000049 0.        ], distance to Ag 6.085750690005809
+Interaction force [0.25691733 0.3366814  0.        ]
+
+Atom # 16, coordinates [3.99999929 3.19999943 0.        ], distance to Ag 7.059452134406921
+Interaction force [-0.48861835 -0.39633667  0.        ]
+
+Atom # 19, coordinates [2.99999963 3.99999951 0.        ], distance to Ag 6.999706892040375
+Interaction force [-0.25691733 -0.3366814   0.        ]
+
+Atom # 20, coordinates [3.99999946 3.99999973 0.        ], distance to Ag 7.348182111528719
+Interaction force [-0.36914091 -0.18791281  0.        ]
+
+
+Step 7
+Atom # 1, coordinates [1.00000087 0.80000044 0.        ], distance to Ag 6.0028538362349755
+Interaction force [0.44296912 0.22549551 0.        ]
+
+Atom # 2, coordinates [2.00000061 0.8000008  0.        ], distance to Ag 6.085562127191797
+Interaction force [0.30830072 0.40401781 0.        ]
+
+Atom # 16, coordinates [3.99999884 3.19999906 0.        ], distance to Ag 7.059267374508356
+Interaction force [-0.58634205 -0.47560379  0.        ]
+
+Atom # 19, coordinates [2.99999939 3.9999992  0.        ], distance to Ag 6.9995220031473835
+Interaction force [-0.30830072 -0.40401781  0.        ]
+
+Atom # 20, coordinates [3.99999913 3.99999956 0.        ], distance to Ag 7.348001002005673
+Interaction force [-0.44296912 -0.22549551  0.        ]
+
+
+Step 8
+Atom # 1, coordinates [1.00000133 0.80000068 0.        ], distance to Ag 6.002605509959701
+Interaction force [0.51679736 0.26307832 0.        ]
+
+Atom # 2, coordinates [2.00000092 0.80000121 0.        ], distance to Ag 6.085309170267835
+Interaction force [0.35968406 0.4713543  0.        ]
+
+Atom # 16, coordinates [3.99999824 3.19999858 0.        ], distance to Ag 7.059019519525073
+Interaction force [-0.68406578 -0.55487075  0.        ]
+
+Atom # 19, coordinates [2.99999908 3.99999879 0.        ], distance to Ag 6.999273975103244
+Interaction force [-0.35968406 -0.4713543   0.        ]
+
+Atom # 20, coordinates [3.99999867 3.99999932 0.        ], distance to Ag 7.347758044261337
+Interaction force [-0.51679736 -0.26307832  0.        ]
+
+
+Step 9
+Atom # 1, coordinates [1.00000191 0.80000097 0.        ], distance to Ag 6.002284932760696
+Interaction force [0.59062563 0.30066127 0.        ]
+
+Atom # 2, coordinates [2.00000133 0.80000174 0.        ], distance to Ag 6.084982614531274
+Interaction force [0.41106731 0.53869092 0.        ]
+
+Atom # 16, coordinates [3.99999747 3.19999795 0.        ], distance to Ag 7.058699550719426
+Interaction force [-0.78178955 -0.63413749  0.        ]
+
+Atom # 19, coordinates [2.99999867 3.99999826 0.        ], distance to Ag 6.998953782858907
+Interaction force [-0.41106731 -0.53869092  0.        ]
+
+Atom # 20, coordinates [3.99999809 3.99999903 0.        ], distance to Ag 7.347444398009473
+Interaction force [-0.59062563 -0.30066127  0.        ]
+
+
+Step 10
+Atom # 1, coordinates [1.00000264 0.80000135 0.        ], distance to Ag 6.001883065916676
+Interaction force [0.66445394 0.33824441 0.        ]
+
+Atom # 2, coordinates [2.00000184 0.80000241 0.        ], distance to Ag 6.08457325220898
+Interaction force [0.46245046 0.60602771 0.        ]
+
+Atom # 16, coordinates [3.9999965  3.19999716 0.        ], distance to Ag 7.058298446504274
+Interaction force [-0.87951336 -0.71340395  0.        ]
+
+Atom # 19, coordinates [2.99999816 3.99999759 0.        ], distance to Ag 6.998552398506692
+Interaction force [-0.46245046 -0.60602771  0.        ]
+
+Atom # 20, coordinates [3.99999736 3.99999865 0.        ], distance to Ag 7.347051220300546
+Interaction force [-0.66445394 -0.33824441  0.        ]
+
+
+Step 11
+Atom # 1, coordinates [1.00000354 0.8000018  0.        ], distance to Ag 6.001390867140077
+Interaction force [0.73828231 0.37582778 0.        ]
+
+Atom # 2, coordinates [2.00000247 0.80000323 0.        ], distance to Ag 6.084071871679642
+Interaction force [0.51383349 0.67336469 0.        ]
+
+Atom # 16, coordinates [3.99999531 3.1999962  0.        ], distance to Ag 7.057807181723254
+Interaction force [-0.97723722 -0.79267006  0.        ]
+
+Atom # 19, coordinates [2.99999753 3.99999677 0.        ], distance to Ag 6.998060790558172
+Interaction force [-0.51383349 -0.67336469  0.        ]
+
+Atom # 20, coordinates [3.99999646 3.9999982  0.        ], distance to Ag 7.346569664850928
+Interaction force [-0.73828231 -0.37582778  0.        ]
+
+
+Step 12
+Atom # 1, coordinates [1.00000462 0.80000235 0.        ], distance to Ag 6.000799289777993
+Interaction force [0.81211074 0.41341144 0.        ]
+
+Atom # 2, coordinates [2.00000322 0.80000422 0.        ], distance to Ag 6.083469256608874
+Interaction force [0.56521636 0.74070193 0.        ]
+
+Atom # 16, coordinates [3.99999388 3.19999504 0.        ], distance to Ag 7.057216726850613
+Interaction force [-1.07496116 -0.87193573  0.        ]
+
+Atom # 19, coordinates [2.99999678 3.99999578 0.        ], distance to Ag 6.997469923141362
+Interaction force [-0.56521636 -0.74070193  0.        ]
+
+Atom # 20, coordinates [3.99999538 3.99999765 0.        ], distance to Ag 7.345990881297409
+Interaction force [-0.81211074 -0.41341144  0.        ]
+
+
+Step 13
+Atom # 1, coordinates [1.0000059 0.800003  0.       ], distance to Ag 6.0000992819324095
+Interaction force [0.88593924 0.45099543 0.        ]
+
+Atom # 2, coordinates [2.00000411 0.80000538 0.        ], distance to Ag 6.082756184996561
+Interaction force [0.61659904 0.80803947 0.        ]
+
+Atom # 16, coordinates [3.99999219 3.19999367 0.        ], distance to Ag 7.056518047110163
+Interaction force [-1.17268517 -0.95120087  0.        ]
+
+Atom # 19, coordinates [2.99999589 3.99999462 0.        ], distance to Ag 6.996770755116723
+Interaction force [-0.61659904 -0.80803947  0.        ]
+
+Atom # 20, coordinates [3.9999941 3.999997  0.       ], distance to Ag 7.34530601437661
+Interaction force [-0.88593924 -0.45099543  0.        ]
+
+
+Step 14
+Atom # 1, coordinates [1.00000739 0.80000376 0.        ], distance to Ag 5.999281785499158
+Interaction force [0.95976784 0.48857983 0.        ]
+
+Atom # 2, coordinates [2.00000514 0.80000674 0.        ], distance to Ag 6.081923428135865
+Interaction force [0.6679815  0.87537736 0.        ]
+
+Atom # 16, coordinates [3.99999022 3.19999207 0.        ], distance to Ag 7.055702101512765
+Interaction force [-1.27040929 -1.03046541  0.        ]
+
+Atom # 19, coordinates [2.99999486 3.99999326 0.        ], distance to Ag 6.99595423911144
+Interaction force [-0.6679815  -0.87537736  0.        ]
+
+Atom # 20, coordinates [3.99999261 3.99999624 0.        ], distance to Ag 7.344506203028768
+Interaction force [-0.95976784 -0.48857983  0.        ]
+
+
+Step 15
+Atom # 1, coordinates [1.00000911 0.80000464 0.        ], distance to Ag 5.998337735124964
+Interaction force [1.03359655 0.52616471 0.        ]
+
+Atom # 2, coordinates [2.00000634 0.80000831 0.        ], distance to Ag 6.0809617494831025
+Interaction force [0.7193637  0.94271566 0.        ]
+
+Atom # 16, coordinates [3.99998794 3.19999022 0.        ], distance to Ag 7.054759841811696
+Interaction force [-1.36813352 -1.10972922  0.        ]
+
+Atom # 19, coordinates [2.99999366 3.99999169 0.        ], distance to Ag 6.995011320471289
+Interaction force [-0.7193637  -0.94271566  0.        ]
+
+Atom # 20, coordinates [3.99999089 3.99999536 0.        ], distance to Ag 7.3435825794252985
+Interaction force [-1.03359655 -0.52616471  0.        ]
+
+
+Step 16
+Atom # 1, coordinates [1.00001108 0.80000564 0.        ], distance to Ag 5.997258057081775
+Interaction force [1.10742537 0.56375013 0.        ]
+
+Atom # 2, coordinates [2.00000771 0.80001011 0.        ], distance to Ag 6.079861903437653
+Interaction force [0.77074561 1.01005445 0.        ]
+
+Atom # 16, coordinates [3.99998533 3.1999881  0.        ], distance to Ag 7.053682211375104
+Interaction force [-1.46585788 -1.1889922   0.        ]
+
+Atom # 19, coordinates [2.99999229 3.99998989 0.        ], distance to Ag 6.993932936129302
+Interaction force [-0.77074561 -1.01005445  0.        ]
+
+Atom # 20, coordinates [3.99998892 3.99999436 0.        ], distance to Ag 7.342526267919413
+Interaction force [-1.10742537 -0.56375013  0.        ]
+
+
+Step 17
+Atom # 1, coordinates [1.00001331 0.80000678 0.        ], distance to Ag 5.996033668057517
+Interaction force [1.18125434 0.60133618 0.        ]
+
+Atom # 2, coordinates [2.00000927 0.80001214 0.        ], distance to Ag 6.078614634030854
+Interaction force [0.82212717 1.07739378 0.        ]
+
+Atom # 16, coordinates [3.99998238 3.1999857  0.        ], distance to Ag 7.052460143974647
+Interaction force [-1.56358239 -1.26825422  0.        ]
+
+Atom # 19, coordinates [2.99999073 3.99998786 0.        ], distance to Ag 6.992710013390325
+Interaction force [-0.82212717 -1.07739378  0.        ]
+
+Atom # 20, coordinates [3.99998669 3.99999322 0.        ], distance to Ag 7.3413283839189685
+Interaction force [-1.18125434 -0.60133618  0.        ]
+
+
+Step 18
+Atom # 1, coordinates [1.00001583 0.80000806 0.        ], distance to Ag 5.9946554738621876
+Interaction force [1.25508348 0.63892293 0.        ]
+
+Atom # 2, coordinates [2.00001102 0.80001444 0.        ], distance to Ag 6.077210673522716
+Interaction force [0.87350835 1.14473373 0.        ]
+
+Atom # 16, coordinates [3.99997905 3.19998301 0.        ], distance to Ag 7.051084562489228
+Interaction force [-1.66130708 -1.34751517  0.        ]
+
+Atom # 19, coordinates [2.99998898 3.99998556 0.        ], distance to Ag 6.9913334686303905
+Interaction force [-0.87350835 -1.14473373  0.        ]
+
+Atom # 20, coordinates [3.99998417 3.99999194 0.        ], distance to Ag 7.339980032680591
+Interaction force [-1.25508348 -0.63892293  0.        ]
+
+
+Step 19
+Atom # 1, coordinates [1.00001864 0.80000949 0.        ], distance to Ag 5.9931143680481656
+Interaction force [1.32891279 0.67651048 0.        ]
+
+Atom # 2, coordinates [2.00001297 0.800017   0.        ], distance to Ag 6.075640740905123
+Interaction force [0.92488909 1.21207437 0.        ]
+
+Atom # 16, coordinates [3.99997533 3.19997999 0.        ], distance to Ag 7.04954637752268
+Interaction force [-1.75903196 -1.42677491  0.        ]
+
+Atom # 19, coordinates [2.99998703 3.999983   0.        ], distance to Ag 6.9897942059097184
+Interaction force [-0.92488909 -1.21207437  0.        ]
+
+Atom # 20, coordinates [3.99998136 3.99999051 0.        ], distance to Ag 7.338472308023977
+Interaction force [-1.32891279 -0.67651048  0.        ]
+
+
+Step 20
+Atom # 1, coordinates [1.00002176 0.80001108 0.        ], distance to Ag 5.991401230443342
+Interaction force [1.4027423  0.71409892 0.        ]
+
+Atom # 2, coordinates [2.00001514 0.80001985 0.        ], distance to Ag 6.073895540309977
+Interaction force [0.97626934 1.2794158  0.        ]
+
+Atom # 16, coordinates [3.9999712  3.19997664 0.        ], distance to Ag 7.047836485933981
+Interaction force [-1.85675705 -1.50603329  0.        ]
+
+Atom # 19, coordinates [2.99998486 3.99998015 0.        ], distance to Ag 6.988083115497961
+Interaction force [-0.97626934 -1.2794158   0.        ]
+
+Atom # 20, coordinates [3.99997824 3.99998892 0.        ], distance to Ag 7.336796290965145
+Interaction force [-1.4027423  -0.71409892  0.        ]
+
+
+Step 21
+Atom # 1, coordinates [1.00002521 0.80001283 0.        ], distance to Ag 5.9895069255956
+Interaction force [1.47657204 0.75168835 0.        ]
+
+Atom # 2, coordinates [2.00001755 0.80002299 0.        ], distance to Ag 6.071965759320578
+Interaction force [1.02764906 1.34675809 0.        ]
+
+Atom # 16, coordinates [3.99996663 3.19997293 0.        ], distance to Ag 7.045945769278497
+Interaction force [-1.95448238 -1.58529015  0.        ]
+
+Atom # 19, coordinates [2.99998245 3.99997701 0.        ], distance to Ag 6.986191072310145
+Interaction force [-1.02764906 -1.34675809  0.        ]
+
+Atom # 20, coordinates [3.99997479 3.99998717 0.        ], distance to Ag 7.334943048267232
+Interaction force [-1.47657204 -0.75168835  0.        ]
+
+
+Step 22
+Atom # 1, coordinates [1.00002901 0.80001477 0.        ], distance to Ag 5.987422301126926
+Interaction force [1.55040202 0.78927887 0.        ]
+
+Atom # 2, coordinates [2.00002019 0.80002646 0.        ], distance to Ag 6.069842067184317
+Interaction force [1.07902817 1.41410134 0.        ]
+
+Atom # 16, coordinates [3.9999616  3.19996885 0.        ], distance to Ag 7.043865092158509
+Interaction force [-2.05220798 -1.66454536  0.        ]
+
+Atom # 19, coordinates [2.99997981 3.99997354 0.        ], distance to Ag 6.984108934251595
+Interaction force [-1.07902817 -1.41410134  0.        ]
+
+Atom # 20, coordinates [3.99997099 3.99998523 0.        ], distance to Ag 7.3329036309072855
+Interaction force [-1.55040202 -0.78927887  0.        ]
+
+
+Step 23
+Atom # 1, coordinates [1.00003317 0.80001689 0.        ], distance to Ag 5.985138185995276
+Interaction force [1.62423228 0.8268706  0.        ]
+
+Atom # 2, coordinates [2.00002309 0.80003025 0.        ], distance to Ag 6.067515112924532
+Interaction force [1.13040663 1.48144565 0.        ]
+
+Atom # 16, coordinates [3.99995609 3.19996439 0.        ], distance to Ag 7.041585300481115
+Interaction force [-2.14993387 -1.74379872  0.        ]
+
+Atom # 19, coordinates [2.99997691 3.99996975 0.        ], distance to Ag 6.981827540469883
+Interaction force [-1.13040663 -1.48144565  0.        ]
+
+Atom # 20, coordinates [3.99996683 3.99998311 0.        ], distance to Ag 7.330669072457291
+Interaction force [-1.62423228 -0.8268706   0.        ]
+
+
+Step 24
+Atom # 1, coordinates [1.00003771 0.8000192  0.        ], distance to Ag 5.9826453886621
+Interaction force [1.69806283 0.86446365 0.        ]
+
+Atom # 2, coordinates [2.00002625 0.80003439 0.        ], distance to Ag 6.0649755233491165
+Interaction force [1.18178436 1.54879111 0.        ]
+
+Atom # 16, coordinates [3.99995008 3.19995951 0.        ], distance to Ag 7.039097219621353
+Interaction force [-2.24766008 -1.82305008  0.        ]
+
+Atom # 19, coordinates [2.99997375 3.99996561 0.        ], distance to Ag 6.979337709511684
+Interaction force [-1.18178436 -1.54879111  0.        ]
+
+Atom # 20, coordinates [3.99996229 3.9999808  0.        ], distance to Ag 7.3282303873775225
+Interaction force [-1.69806283 -0.86446365  0.        ]
+
+
+Step 25
+Atom # 1, coordinates [1.00004265 0.80002171 0.        ], distance to Ag 5.979934695163186
+Interaction force [1.77189372 0.90205814 0.        ]
+
+Atom # 2, coordinates [2.00002968 0.8000389  0.        ], distance to Ag 6.062213900953265
+Interaction force [1.23316131 1.61613783 0.        ]
+
+Atom # 16, coordinates [3.99994355 3.19995421 0.        ], distance to Ag 7.036391652488195
+Interaction force [-2.34538664 -1.90229924  0.        ]
+
+Atom # 19, coordinates [2.99997032 3.9999611  0.        ], distance to Ag 6.976630237382135
+Interaction force [-1.23316131 -1.61613783  0.        ]
+
+Atom # 20, coordinates [3.99995735 3.99997829 0.        ], distance to Ag 7.3255785692200455
+Interaction force [-1.77189372 -0.90205814  0.        ]
+
+
+Step 26
+Atom # 1, coordinates [1.00004799 0.80002443 0.        ], distance to Ag 5.976996867080284
+Interaction force [1.84572495 0.93965419 0.        ]
+
+Atom # 2, coordinates [2.0000334  0.80004377 0.        ], distance to Ag 6.059220821713409
+Interaction force [1.28453741 1.68348592 0.        ]
+
+Atom # 16, coordinates [3.99993647 3.19994847 0.        ], distance to Ag 7.033459377490786
+Interaction force [-2.44311357 -1.98154602  0.        ]
+
+Atom # 19, coordinates [2.9999666  3.99995623 0.        ], distance to Ag 6.973695895504094
+Interaction force [-1.28453741 -1.68348592  0.        ]
+
+Atom # 20, coordinates [3.99995201 3.99997557 0.        ], distance to Ag 7.322704588740033
+Interaction force [-1.84572495 -0.93965419  0.        ]
+
+
+Step 27
+Atom # 1, coordinates [1.00005377 0.80002737 0.        ], distance to Ag 5.973822639410673
+Interaction force [1.91955657 0.97725194 0.        ]
+
+Atom # 2, coordinates [2.00003742 0.80004904 0.        ], distance to Ag 6.055986832769148
+Interaction force [1.33591257 1.7508355  0.        ]
+
+Atom # 16, coordinates [3.99992883 3.19994227 0.        ], distance to Ag 7.030291146402063
+Interaction force [-2.54084092 -2.06079021  0.        ]
+
+Atom # 19, coordinates [2.99996258 3.99995096 0.        ], distance to Ag 6.970525428574398
+Interaction force [-1.33591257 -1.7508355   0.        ]
+
+Atom # 20, coordinates [3.99994623 3.99997263 0.        ], distance to Ag 7.319599391912278
+Interaction force [-1.91955657 -0.97725194  0.        ]
+
+
+Step 28
+Atom # 1, coordinates [1.00005999 0.80003054 0.        ], distance to Ag 5.970402718331591
+Interaction force [1.99338861 1.01485152 0.        ]
+
+Atom # 2, coordinates [2.00004175 0.80005471 0.        ], distance to Ag 6.052502449989621
+Interaction force [1.38728674 1.81818668 0.        ]
+
+Atom # 16, coordinates [3.9999206  3.19993559 0.        ], distance to Ag 7.026877682116604
+Interaction force [-2.63856871 -2.14003162  0.        ]
+
+Atom # 19, coordinates [2.99995825 3.99994529 0.        ], distance to Ag 6.967109552313969
+Interaction force [-1.38728674 -1.81818668  0.        ]
+
+Atom # 20, coordinates [3.99994001 3.99996946 0.        ], distance to Ag 7.316253897850059
+Interaction force [-1.99338861 -1.01485152  0.        ]
+
+
+Step 29
+Atom # 1, coordinates [1.00006667 0.80003394 0.        ], distance to Ag 5.966727778856126
+Interaction force [2.06722109 1.05245307 0.        ]
+
+Atom # 2, coordinates [2.0000464  0.80006081 0.        ], distance to Ag 6.048758155420479
+Interaction force [1.43865983 1.88553958 0.        ]
+
+Atom # 16, coordinates [3.99991175 3.19992842 0.        ], distance to Ag 7.023209676299244
+Interaction force [-2.73629698 -2.21927001  0.        ]
+
+Atom # 19, coordinates [2.9999536  3.99993919 0.        ], distance to Ag 6.963438951108288
+Interaction force [-1.43865983 -1.88553958  0.        ]
+
+Atom # 20, coordinates [3.99993333 3.99996606 0.        ], distance to Ag 7.312658996623232
+Interaction force [-2.06722109 -1.05245307  0.        ]
+
+
+Step 30
+Atom # 1, coordinates [1.00007383 0.80003758 0.        ], distance to Ag 5.962788462376898
+Interaction force [2.14105405 1.09005674 0.        ]
+
+Atom # 2, coordinates [2.00005138 0.80006734 0.        ], distance to Ag 6.04474439460721
+Interaction force [1.49003176 1.95289434 0.        ]
+
+Atom # 16, coordinates [3.99990227 3.19992073 0.        ], distance to Ag 7.019277786920685
+Interaction force [-2.83402576 -2.29850518  0.        ]
+
+Atom # 19, coordinates [2.99994862 3.99993266 0.        ], distance to Ag 6.9595042755344485
+Interaction force [-1.49003176 -1.95289434  0.        ]
+
+Atom # 20, coordinates [3.99992617 3.99996242 0.        ], distance to Ag 7.308805546972135
+Interaction force [-2.14105405 -1.09005674  0.        ]
+
+
+Step 31
+Atom # 1, coordinates [1.00008148 0.80004148 0.        ], distance to Ag 5.958575374093462
+Interaction force [2.21488752 1.12766268 0.        ]
+
+Atom # 2, coordinates [2.00005671 0.80007432 0.        ], distance to Ag 6.040451573790222
+Interaction force [1.54140244 2.02025109 0.        ]
+
+Atom # 16, coordinates [3.99989214 3.19991251 0.        ], distance to Ag 7.015072635676001
+Interaction force [-2.93175509 -2.37773689  0.        ]
+
+Atom # 19, coordinates [2.99994329 3.99992568 0.        ], distance to Ag 6.955296139770661
+Interaction force [-1.54140244 -2.02025109  0.        ]
+
+Atom # 20, coordinates [3.99991852 3.99995852 0.        ], distance to Ag 7.304684373913583
+Interaction force [-2.21488752 -1.12766268  0.        ]
+
+
+Step 32
+Atom # 1, coordinates [1.00008965 0.80004564 0.        ], distance to Ag 5.954079080319063
+Interaction force [2.28872155 1.16527105 0.        ]
+
+Atom # 2, coordinates [2.00006239 0.80008177 0.        ], distance to Ag 6.035870056966626
+Interaction force [1.59277181 2.08760996 0.        ]
+
+Atom # 16, coordinates [3.99988133 3.19990375 0.        ], distance to Ag 7.0105848052815265
+Interaction force [-3.029485   -2.45696491  0.        ]
+
+Atom # 19, coordinates [2.99993761 3.99991823 0.        ], distance to Ag 6.950805118883697
+Interaction force [-1.59277181 -2.08760996  0.        ]
+
+Atom # 20, coordinates [3.99991035 3.99995436 0.        ], distance to Ag 7.3002862662349095
+Interaction force [-2.28872155 -1.16527105  0.        ]
+
+
+Step 33
+Atom # 1, coordinates [1.00009834 0.80005006 0.        ], distance to Ag 5.949290105661953
+Interaction force [2.36255616 1.202882   0.        ]
+
+Atom # 2, coordinates [2.00006844 0.8000897  0.        ], distance to Ag 6.03099016281328
+Interaction force [1.64413975 2.1549711  0.        ]
+
+Atom # 16, coordinates [3.99986983 3.19989442 0.        ], distance to Ag 7.0058048366452566
+Interaction force [-3.12721555 -2.53618897  0.        ]
+
+Atom # 19, coordinates [2.99993156 3.9999103  0.        ], distance to Ag 6.946021745989363
+Interaction force [-1.64413975 -2.1549711   0.        ]
+
+Atom # 20, coordinates [3.99990166 3.99994994 0.        ], distance to Ag 7.295601973871619
+Interaction force [-2.36255616 -1.202882    0.        ]
+
+
+Step 34
+Atom # 1, coordinates [1.00010758 0.80005477 0.        ], distance to Ag 5.94419893007608
+Interaction force [2.43639139 1.24049571 0.        ]
+
+Atom # 2, coordinates [2.00007487 0.80009812 0.        ], distance to Ag 6.025802161465123
+Interaction force [1.69550619 2.22233465 0.        ]
+
+Atom # 16, coordinates [3.9998576 3.1998845 0.       ], distance to Ag 7.000723225905471
+Interaction force [-3.22494676 -2.61540884  0.        ]
+
+Atom # 19, coordinates [2.99992513 3.99990188 0.        ], distance to Ag 6.940936509280707
+Interaction force [-1.69550619 -2.22233465  0.        ]
+
+Atom # 20, coordinates [3.99989242 3.99994523 0.        ], distance to Ag 7.290622205163894
+Interaction force [-2.43639139 -1.24049571  0.        ]
+
+
+Step 35
+Atom # 1, coordinates [1.00011737 0.80005975 0.        ], distance to Ag 5.938795985775508
+Interaction force [2.51022729 1.27811235 0.        ]
+
+Atom # 2, coordinates [2.00008169 0.80010706 0.        ], distance to Ag 6.020296271142332
+Interaction force [1.74687103 2.28970076 0.        ]
+
+Atom # 16, coordinates [3.99984464 3.19987398 0.        ], distance to Ag 6.9953304213318015
+Interaction force [-3.32267868 -2.69462424  0.        ]
+
+Atom # 19, coordinates [2.99991831 3.99989294 0.        ], distance to Ag 6.935539848918133
+Interaction force [-1.74687103 -2.28970076  0.        ]
+
+Atom # 20, coordinates [3.99988263 3.99994025 0.        ], distance to Ag 7.285337623986725
+Interaction force [-2.51022729 -1.27811235  0.        ]
+
+
+Step 36
+Atom # 1, coordinates [1.00012775 0.80006503 0.        ], distance to Ag 5.933071654006457
+Interaction force [2.58406389 1.3157321  0.        ]
+
+Atom # 2, coordinates [2.00008891 0.80011652 0.        ], distance to Ag 6.014462654619299
+Interaction force [1.79823417 2.35706959 0.        ]
+
+Atom # 16, coordinates [3.99983091 3.19986285 0.        ], distance to Ag 6.989616820082497
+Interaction force [-3.42041135 -2.77383491  0.        ]
+
+Atom # 19, coordinates [2.99991109 3.99988348 0.        ], distance to Ag 6.929822153775171
+Interaction force [-1.79823417 -2.35706959  0.        ]
+
+Atom # 20, coordinates [3.99987225 3.99993497 0.        ], distance to Ag 7.279738846748044
+Interaction force [-2.58406389 -1.3157321   0.        ]
+
+
+Step 37
+Atom # 1, coordinates [1.00013871 0.80007062 0.        ], distance to Ag 5.927016261670338
+Interaction force [2.65790124 1.35335513 0.        ]
+
+Atom # 2, coordinates [2.00009654 0.80012652 0.        ], distance to Ag 6.008291415527811
+Interaction force [1.84959551 2.4244413  0.        ]
+
+Atom # 16, coordinates [3.99981639 3.19985107 0.        ], distance to Ag 6.983572764811127
+Interaction force [-3.51814481 -2.85304057  0.        ]
+
+Atom # 19, coordinates [2.99990346 3.99987348 0.        ], distance to Ag 6.9237737580331045
+Interaction force [-1.84959551 -2.4244413   0.        ]
+
+Atom # 20, coordinates [3.99986129 3.99992938 0.        ], distance to Ag 7.273816439248737
+Interaction force [-2.65790124 -1.35335513  0.        ]
+
+
+Step 38
+Atom # 1, coordinates [1.00015029 0.80007651 0.        ], distance to Ag 5.920620077790602
+Interaction force [2.73173937 1.39098164 0.        ]
+
+Atom # 2, coordinates [2.0001046  0.80013708 0.        ], distance to Ag 6.001772594486173
+Interaction force [1.90095495 2.49181605 0.        ]
+
+Atom # 16, coordinates [3.99980107 3.19983865 0.        ], distance to Ag 6.977188540115365
+Interaction force [-3.61587912 -2.93224093  0.        ]
+
+Atom # 19, coordinates [2.9998954  3.99986292 0.        ], distance to Ag 6.917384937617054
+Interaction force [-1.90095495 -2.49181605  0.        ]
+
+Atom # 20, coordinates [3.99984971 3.99992349 0.        ], distance to Ag 7.2675609133979
+Interaction force [-2.73173937 -1.39098164  0.        ]
+
+
+Step 39
+Atom # 1, coordinates [1.00016249 0.80008272 0.        ], distance to Ag 5.913873309815623
+Interaction force [2.80557833 1.42861182 0.        ]
+
+Atom # 2, coordinates [2.00011309 0.80014821 0.        ], distance to Ag 5.994896165045344
+Interaction force [1.95231238 2.55919402 0.        ]
+
+Atom # 16, coordinates [3.99978492 3.19982555 0.        ], distance to Ag 6.970454368819895
+Interaction force [-3.71361431 -3.01143569  0.        ]
+
+Atom # 19, coordinates [2.99988691 3.99985179 0.        ], distance to Ag 6.910645906465556
+Interaction force [-1.95231238 -2.55919402  0.        ]
+
+Atom # 20, coordinates [3.99983751 3.99991728 0.        ], distance to Ag 7.2609627237762
+Interaction force [-2.80557833 -1.42861182  0.        ]
+
+
+Step 40
+Atom # 1, coordinates [1.00017534 0.80008926 0.        ], distance to Ag 5.906766099749213
+Interaction force [2.87941817 1.46624586 0.        ]
+
+Atom # 2, coordinates [2.00012203 0.80015992 0.        ], distance to Ag 5.987652029442369
+Interaction force [2.0036677  2.62657537 0.        ]
+
+Atom # 16, coordinates [3.99976791 3.19981176 0.        ], distance to Ag 6.9633604080848475
+Interaction force [-3.81135044 -3.09062456  0.        ]
+
+Atom # 19, coordinates [2.99987797 3.99984008 0.        ], distance to Ag 6.903546812624948
+Interaction force [-2.0036677  -2.62657537  0.        ]
+
+Atom # 20, coordinates [3.99982466 3.99991074 0.        ], distance to Ag 7.254012264039526
+Interaction force [-2.87941817 -1.46624586  0.        ]
+
+
+Step 41
+Atom # 1, coordinates [1.00018884 0.80009614 0.        ], distance to Ag 5.899288520099639
+Interaction force [2.95325893 1.50388398 0.        ]
+
+Atom # 2, coordinates [2.00013142 0.80017224 0.        ], distance to Ag 5.9800300141506435
+Interaction force [2.05502079 2.69396028 0.        ]
+
+Atom # 16, coordinates [3.99975004 3.19979726 0.        ], distance to Ag 6.955896745330409
+Interaction force [-3.90908755 -3.16980722  0.        ]
+
+Atom # 19, coordinates [2.99986858 3.99982776 0.        ], distance to Ag 6.896077734159248
+Interaction force [-2.05502079 -2.69396028  0.        ]
+
+Atom # 20, coordinates [3.99981116 3.99990386 0.        ], distance to Ag 7.2466998631545625
+Interaction force [-2.95325893 -1.50388398  0.        ]
+
+
+Step 42
+Atom # 1, coordinates [1.00020302 0.80010336 0.        ], distance to Ag 5.891430569637298
+Interaction force [3.02710067 1.54152638 0.        ]
+
+Atom # 2, coordinates [2.00014129 0.80018517 0.        ], distance to Ag 5.972019865215589
+Interaction force [2.10637154 2.76134894 0.        ]
+
+Atom # 16, coordinates [3.99973127 3.19978204 0.        ], distance to Ag 6.948053393967516
+Interaction force [-4.0068257  -3.24898335  0.        ]
+
+Atom # 19, coordinates [2.99985871 3.99981483 0.        ], distance to Ag 6.888228674865299
+Interaction force [-2.10637154 -2.76134894  0.        ]
+
+Atom # 20, coordinates [3.99979698 3.99989664 0.        ], distance to Ag 7.239015781457152
+Interaction force [-3.02710067 -1.54152638  0.        ]
+
+
+Step 43
+Atom # 1, coordinates [1.00021789 0.80011093 0.        ], distance to Ag 5.883182168950363
+Interaction force [3.10094342 1.57917327 0.        ]
+
+Atom # 2, coordinates [2.00015164 0.80019874 0.        ], distance to Ag 5.9636112433634425
+Interaction force [2.15771982 2.82874154 0.        ]
+
+Atom # 16, coordinates [3.99971158 3.19976607 0.        ], distance to Ag 6.939820288923701
+Interaction force [-4.10456494 -3.32815263  0.        ]
+
+Atom # 19, coordinates [2.99984836 3.99980126 0.        ], distance to Ag 6.879989559782278
+Interaction force [-2.15771982 -2.82874154  0.        ]
+
+Atom # 20, coordinates [3.99978211 3.99988907 0.        ], distance to Ag 7.230950206523623
+Interaction force [-3.10094342 -1.57917327  0.        ]
+
+
+Step 44
+Atom # 1, coordinates [1.00023347 0.80011886 0.        ], distance to Ag 5.874533155786859
+Interaction force [3.17478723 1.61682488 0.        ]
+
+Atom # 2, coordinates [2.00016249 0.80021295 0.        ], distance to Ag 5.95479371886979
+Interaction force [2.20906553 2.89613826 0.        ]
+
+Atom # 16, coordinates [3.99969096 3.19974935 0.        ], distance to Ag 6.931187281952228
+Interaction force [-4.20230531 -3.40731473  0.        ]
+
+Atom # 19, coordinates [2.99983751 3.99978705 0.        ], distance to Ag 6.871350230483593
+Interaction force [-2.20906553 -2.89613826  0.        ]
+
+Atom # 20, coordinates [3.99976653 3.99988114 0.        ], distance to Ag 7.222493248844389
+Interaction force [-3.17478723 -1.61682488  0.        ]
+
+
+Step 45
+Atom # 1, coordinates [1.00024978 0.80012716 0.        ], distance to Ag 5.86547328017065
+Interaction force [3.24863217 1.65448142 0.        ]
+
+Atom # 2, coordinates [2.00017383 0.80022782 0.        ], distance to Ag 5.945556766173358
+Interaction force [2.26040854 2.9635393  0.        ]
+
+Atom # 16, coordinates [3.99966938 3.19973185 0.        ], distance to Ag 6.922144136711689
+Interaction force [-4.30004688 -3.48646929  0.        ]
+
+Atom # 19, coordinates [2.99982617 3.99977218 0.        ], distance to Ag 6.86230044013833
+Interaction force [-2.26040854 -2.9635393   0.        ]
+
+Atom # 20, coordinates [3.99975022 3.99987284 0.        ], distance to Ag 7.213634937288287
+Interaction force [-3.24863217 -1.65448142  0.        ]
+
+
+Step 46
+Atom # 1, coordinates [1.00026683 0.80013584 0.        ], distance to Ag 5.855992199277785
+Interaction force [3.32247828 1.69214314 0.        ]
+
+Atom # 2, coordinates [2.0001857  0.80024337 0.        ], distance to Ag 5.93588975821938
+Interaction force [2.31174871 3.03094487 0.        ]
+
+Atom # 16, coordinates [3.99964681 3.19971355 0.        ], distance to Ag 6.912680523602163
+Interaction force [-4.39778969 -3.56561598  0.        ]
+
+Atom # 19, coordinates [2.9998143  3.99975663 0.        ], distance to Ag 6.852829848328255
+Interaction force [-2.31174871 -3.03094487  0.        ]
+
+Atom # 20, coordinates [3.99973317 3.99986416 0.        ], distance to Ag 7.204365214345139
+Interaction force [-3.32247828 -1.69214314  0.        ]
+
+
+Step 47
+Atom # 1, coordinates [1.00028463 0.80014491 0.        ], distance to Ag 5.846079472058535
+Interaction force [3.39632561 1.72981025 0.        ]
+
+Atom # 2, coordinates [2.00019809 0.80025961 0.        ], distance to Ag 5.925781960515479
+Interaction force [2.36308593 3.09835516 0.        ]
+
+Atom # 16, coordinates [3.99962325 3.19969443 0.        ], distance to Ag 6.902786014342854
+Interaction force [-4.49553382 -3.64475442  0.        ]
+
+Atom # 19, coordinates [2.99980191 3.99974039 0.        ], distance to Ag 6.842928015605239
+Interaction force [-2.36308593 -3.09835516  0.        ]
+
+Atom # 20, coordinates [3.99971537 3.99985509 0.        ], distance to Ag 7.19467393113298
+Interaction force [-3.39632561 -1.72981025  0.        ]
+
+
+Step 48
+Atom # 1, coordinates [1.00030321 0.80015437 0.        ], distance to Ag 5.835724553589203
+Interaction force [3.47017421 1.76748301 0.        ]
+
+Atom # 2, coordinates [2.00021102 0.80027656 0.        ], distance to Ag 5.9152225248816155
+Interaction force [2.41442006 3.16577039 0.        ]
+
+Atom # 16, coordinates [3.99959865 3.19967449 0.        ], distance to Ag 6.892450076274857
+Interaction force [-4.5932793  -3.72388426  0.        ]
+
+Atom # 19, coordinates [2.99978898 3.99972344 0.        ], distance to Ag 6.832584397772671
+Interaction force [-2.41442006 -3.16577039  0.        ]
+
+Atom # 20, coordinates [3.99969679 3.99984563 0.        ], distance to Ag 7.184550842155256
+Interaction force [-3.47017421 -1.76748301  0.        ]
+
+
+Step 49
+Atom # 1, coordinates [1.00032258 0.80016423 0.        ], distance to Ag 5.824916789136455
+Interaction force [3.54402416 1.80516166 0.        ]
+
+Atom # 2, coordinates [2.0002245  0.80029423 0.        ], distance to Ag 5.904200482874017
+Interaction force [2.46575097 3.23319078 0.        ]
+
+Atom # 16, coordinates [3.99957301 3.1996537  0.        ], distance to Ag 6.8816620663713355
+Interaction force [-4.69102621 -3.80300512  0.        ]
+
+Atom # 19, coordinates [2.9997755  3.99970577 0.        ], distance to Ag 6.821788339873066
+Interaction force [-2.46575097 -3.23319078  0.        ]
+
+Atom # 20, coordinates [3.99967742 3.99983577 0.        ], distance to Ag 7.173985599792061
+Interaction force [-3.54402416 -1.80516166  0.        ]
+
+
+Step 50
+Atom # 1, coordinates [1.00034276 0.80017451 0.        ], distance to Ag 5.813645407915455
+Interaction force [3.61787549 1.84284645 0.        ]
+
+Atom # 2, coordinates [2.00023854 0.80031264 0.        ], distance to Ag 5.892704738861285
+Interaction force [2.51707851 3.30061654 0.        ]
+
+Atom # 16, coordinates [3.9995463  3.19963204 0.        ], distance to Ag 6.870411224935831
+Interaction force [-4.7887746  -3.88211661  0.        ]
+
+Atom # 19, coordinates [2.99976146 3.99968736 0.        ], distance to Ag 6.810529069862504
+Interaction force [-2.51707851 -3.30061654  0.        ]
+
+Atom # 20, coordinates [3.99965724 3.99982549 0.        ], distance to Ag 7.162967748508115
+Interaction force [-3.61787549 -1.84284645  0.        ]
+
+
+Step 51
+Atom # 1, coordinates [1.00036376 0.8001852  0.        ], distance to Ag 5.801899516521482
+Interaction force [3.69172827 1.88053763 0.        ]
+
+Atom # 2, coordinates [2.00025315 0.80033179 0.        ], distance to Ag 5.880724062729011
+Interaction force [2.56840255 3.36804789 0.        ]
+
+Atom # 16, coordinates [3.99951851 3.19960949 0.        ], distance to Ag 6.858686668967798
+Interaction force [-4.88652453 -3.96121835  0.        ]
+
+Atom # 19, coordinates [2.99974685 3.99966821 0.        ], distance to Ag 6.798795691950895
+Interaction force [-2.56840255 -3.36804789  0.        ]
+
+Atom # 20, coordinates [3.99963624 3.9998148  0.        ], distance to Ag 7.151486718758706
+Interaction force [-3.69172827 -1.88053763  0.        ]
+
+
+Step 52
+Atom # 1, coordinates [1.0003856  0.80019632 0.        ], distance to Ag 5.789668092012935
+Interaction force [3.76558256 1.91823546 0.        ]
+
+Atom # 2, coordinates [2.00026835 0.80035172 0.        ], distance to Ag 5.868247082187068
+Interaction force [2.61972295 3.43548507 0.        ]
+
+Atom # 16, coordinates [3.99948959 3.19958605 0.        ], distance to Ag 6.846477385172637
+Interaction force [-4.98427607 -4.04030994  0.        ]
+
+Atom # 19, coordinates [2.99973165 3.99964828 0.        ], distance to Ag 6.786577179585237
+Interaction force [-2.61972295 -3.43548507  0.        ]
+
+Atom # 20, coordinates [3.9996144  3.99980368 0.        ], distance to Ag 7.139531820573193
+Interaction force [-3.76558256 -1.91823546  0.        ]
+
+
+Step 53
+Atom # 1, coordinates [1.0004083  0.80020788 0.        ], distance to Ag 5.776939974621751
+Interaction force [3.83943842 1.95594022 0.        ]
+
+Atom # 2, coordinates [2.00028415 0.80037242 0.        ], distance to Ag 5.855262274651564
+Interaction force [2.67103955 3.50292831 0.        ]
+
+Atom # 16, coordinates [3.99945955 3.19956168 0.        ], distance to Ag 6.8337722225914685
+Interaction force [-5.08202928 -4.11939097  0.        ]
+
+Atom # 19, coordinates [2.99971585 3.99962758 0.        ], distance to Ag 6.773862368051
+Interaction force [-2.67103955 -3.50292831  0.        ]
+
+Atom # 20, coordinates [3.9995917  3.99979212 0.        ], distance to Ag 7.127092236793883
+Interaction force [-3.83943842 -1.95594022  0.        ]
+
+
+Step 54
+Atom # 1, coordinates [1.00043188 0.80021989 0.        ], distance to Ag 5.763703860065093
+Interaction force [3.91329591 1.99365217 0.        ]
+
+Atom # 2, coordinates [2.00030055 0.80039393 0.        ], distance to Ag 5.841757958670831
+Interaction force [2.72235222 3.57037784 0.        ]
+
+Atom # 16, coordinates [3.99942834 3.19953638 0.        ], distance to Ag 6.820559884823739
+Interaction force [-5.17978423 -4.19846102  0.        ]
+
+Atom # 19, coordinates [2.99969945 3.99960607 0.        ], distance to Ag 6.7606399466646065
+Interaction force [-2.72235222 -3.57037784  0.        ]
+
+Atom # 20, coordinates [3.99956812 3.99978011 0.        ], distance to Ag 7.114157015946146
+Interaction force [-3.91329591 -1.99365217  0.        ]
+
+
+Step 55
+Atom # 1, coordinates [1.00045634 0.80023234 0.        ], distance to Ag 5.749948291429868
+Interaction force [3.98715509 2.03137159 0.        ]
+
+Atom # 2, coordinates [2.00031757 0.80041624 0.        ], distance to Ag 5.827722284862108
+Interaction force [2.77366079 3.6378339  0.        ]
+
+Atom # 16, coordinates [3.99939596 3.19951012 0.        ], distance to Ag 6.806828921813292
+Interaction force [-5.27754097 -4.27751968  0.        ]
+
+Atom # 19, coordinates [2.99968243 3.99958376 0.        ], distance to Ag 6.746898450527498
+Interaction force [-2.77366079 -3.6378339   0.        ]
+
+Atom # 20, coordinates [3.99954366 3.99976766 0.        ], distance to Ag 7.100715064713454
+Interaction force [-3.98715509 -2.03137159  0.        ]
+
+
+Step 56
+Atom # 1, coordinates [1.00048171 0.80024526 0.        ], distance to Ag 5.735661650599081
+Interaction force [4.06101603 2.06909876 0.        ]
+
+Atom # 2, coordinates [2.00033523 0.80043938 0.        ], distance to Ag 5.813143226322506
+Interaction force [2.82496511 3.70529675 0.        ]
+
+Atom # 16, coordinates [3.99936238 3.1994829  0.        ], distance to Ag 6.792567721165911
+Interaction force [-5.37529959 -4.35656651  0.        ]
+
+Atom # 19, coordinates [2.99966477 3.99956062 0.        ], distance to Ag 6.732626251809655
+Interaction force [-2.82496511 -3.70529675  0.        ]
+
+Atom # 20, coordinates [3.99951829 3.99975474 0.        ], distance to Ag 7.086755139988696
+Interaction force [-4.06101603 -2.06909876  0.        ]
+
+
+Step 57
+Atom # 1, coordinates [1.000508   0.80025865 0.        ], distance to Ag 5.7208321491862115
+Interaction force [4.13487879 2.10683396 0.        ]
+
+Atom # 2, coordinates [2.00035352 0.80046337 0.        ], distance to Ag 5.798008568474468
+Interaction force [2.87626503 3.77276662 0.        ]
+
+Atom # 16, coordinates [3.99932758 3.19945468 0.        ], distance to Ag 6.777764498963396
+Interaction force [-5.47306015 -4.43560108  0.        ]
+
+Atom # 19, coordinates [2.99964648 3.99953663 0.        ], distance to Ag 6.717811550527461
+Interaction force [-2.87626503 -3.77276662  0.        ]
+
+Atom # 20, coordinates [3.999492   3.99974135 0.        ], distance to Ag 7.0722658404704815
+Interaction force [-4.13487879 -2.10683396  0.        ]
+
+
+Step 58
+Atom # 1, coordinates [1.00053523 0.80027252 0.        ], distance to Ag 5.70544781894066
+Interaction force [4.20874344 2.1445775  0.        ]
+
+Atom # 2, coordinates [2.00037247 0.80048821 0.        ], distance to Ag 5.782305898302184
+Interaction force [2.92756038 3.84024379 0.        ]
+
+Atom # 16, coordinates [3.99929154 3.19942545 0.        ], distance to Ag 6.762407290035961
+Interaction force [-5.57082271 -4.51462293  0.        ]
+
+Atom # 19, coordinates [2.99962753 3.99951179 0.        ], distance to Ag 6.7024423647775375
+Interaction force [-2.92756038 -3.84024379  0.        ]
+
+Atom # 20, coordinates [3.99946477 3.99972748 0.        ], distance to Ag 7.057235597770262
+Interaction force [-4.20874344 -2.1445775   0.        ]
+
+
+Step 59
+Atom # 1, coordinates [1.00056342 0.80028687 0.        ], distance to Ag 5.689496501583892
+Interaction force [4.28261004 2.18232967 0.        ]
+
+Atom # 2, coordinates [2.00039208 0.80051392 0.        ], distance to Ag 5.766022592931323
+Interaction force [2.97885099 3.9077285  0.        ]
+
+Atom # 16, coordinates [3.99925423 3.1993952  0.        ], distance to Ag 6.74648393765121
+Interaction force [-5.66858735 -4.59363162  0.        ]
+
+Atom # 19, coordinates [2.99960792 3.99948608 0.        ], distance to Ag 6.686506520384586
+Interaction force [-2.97885099 -3.9077285   0.        ]
+
+Atom # 20, coordinates [3.99943658 3.99971313 0.        ], distance to Ag 7.041652666992918
+Interaction force [-4.28261004 -2.18232967  0.        ]
+
+
+Step 60
+Atom # 1, coordinates [1.00059258 0.80030172 0.        ], distance to Ag 5.672965838032087
+Interaction force [4.35647867 2.22009076 0.        ]
+
+Atom # 2, coordinates [2.00041237 0.80054052 0.        ], distance to Ag 5.749145807499823
+Interaction force [3.03013671 3.97522103 0.        ]
+
+Atom # 16, coordinates [3.99921563 3.1993639  0.        ], distance to Ag 6.7299820825739
+Interaction force [-5.76635415 -4.67262667  0.        ]
+
+Atom # 19, coordinates [2.99958763 3.99945948 0.        ], distance to Ag 6.669991639917265
+Interaction force [-3.03013671 -3.97522103  0.        ]
+
+Atom # 20, coordinates [3.99940742 3.99969828 0.        ], distance to Ag 7.025505116749906
+Interaction force [-4.35647867 -2.22009076  0.        ]
+
+
+Step 61
+Atom # 1, coordinates [1.00062273 0.80031708 0.        ], distance to Ag 5.655843256956892
+Interaction force [4.43034939 2.25786109 0.        ]
+
+Atom # 2, coordinates [2.00043335 0.80056803 0.        ], distance to Ag 5.731662462262389
+Interaction force [3.08141737 4.04272164 0.        ]
+
+Atom # 16, coordinates [3.99917572 3.19933155 0.        ], distance to Ag 6.712889151446375
+Interaction force [-5.86412317 -4.75160763  0.        ]
+
+Atom # 19, coordinates [2.99956665 3.99943197 0.        ], distance to Ag 6.652885131021716
+Interaction force [-3.08141737 -4.04272164  0.        ]
+
+Atom # 20, coordinates [3.99937727 3.99968292 0.        ], distance to Ag 7.008780818560164
+Interaction force [-4.43034939 -2.25786109  0.        ]
+
+
+Step 62
+Atom # 1, coordinates [1.00065388 0.80033295 0.        ], distance to Ag 5.638115962631133
+Interaction force [4.50422228 2.29564097 0.        ]
+
+Atom # 2, coordinates [2.00045502 0.80059645 0.        ], distance to Ag 5.713559228865689
+Interaction force [3.13269278 4.1102306  0.        ]
+
+Atom # 16, coordinates [3.99913449 3.19929812 0.        ], distance to Ag 6.6951923444345205
+Interaction force [-5.96189448 -4.830574    0.        ]
+
+Atom # 19, coordinates [2.99954498 3.99940355 0.        ], distance to Ag 6.635174174017359
+Interaction force [-3.13269278 -4.1102306   0.        ]
+
+Atom # 20, coordinates [3.99934612 3.99966705 0.        ], distance to Ag 6.991467435589598
+Interaction force [-4.50422228 -2.29564097  0.        ]
+
+
+Step 63
+Atom # 1, coordinates [1.00068606 0.80034933 0.        ], distance to Ag 5.619770922001162
+Interaction force [4.5780974  2.33343071 0.        ]
+
+Atom # 2, coordinates [2.00047741 0.8006258  0.        ], distance to Ag 5.694822515724886
+Interaction force [3.18396278 4.17774819 0.        ]
+
+Atom # 16, coordinates [3.9990919  3.19926359 0.        ], distance to Ag 6.67687862207878
+Interaction force [-6.05966818 -4.90952531  0.        ]
+
+Atom # 19, coordinates [2.99952259 3.9993742  0.        ], distance to Ag 6.616845708694188
+Interaction force [-3.18396278 -4.17774819  0.        ]
+
+Atom # 20, coordinates [3.99931394 3.99965067 0.        ], distance to Ag 6.973552410675103
+Interaction force [-4.5780974  -2.33343071  0.        ]
+
+
+Step 64
+Atom # 1, coordinates [1.00071927 0.80036625 0.        ], distance to Ag 5.600794850921692
+Interaction force [4.65197483 2.37123065 0.        ]
+
+Atom # 2, coordinates [2.00050052 0.8006561  0.        ], distance to Ag 5.675438452425107
+Interaction force [3.23522718 4.24527469 0.        ]
+
+Atom # 16, coordinates [3.99904794 3.19922794 0.        ], distance to Ag 6.657934691283536
+Interaction force [-6.15744433 -4.98846105  0.        ]
+
+Atom # 19, coordinates [2.99949948 3.9993439  0.        ], distance to Ag 6.597886420244579
+Interaction force [-3.23522718 -4.24527469  0.        ]
+
+Atom # 20, coordinates [3.99928073 3.99963375 0.        ], distance to Ag 6.9550229535737405
+Interaction force [-4.65197483 -2.37123065  0.        ]
+
+
+Step 65
+Atom # 1, coordinates [1.00075354 0.8003837  0.        ], distance to Ag 5.581174199482436
+Interaction force [4.72585465 2.40904111 0.        ]
+
+Atom # 2, coordinates [2.00052436 0.80068736 0.        ], distance to Ag 5.655392873063534
+Interaction force [3.28648581 4.3128104  0.        ]
+
+Atom # 16, coordinates [3.99900258 3.19919117 0.        ], distance to Ag 6.6383469903714625
+Interaction force [-6.255223   -5.06738074  0.        ]
+
+Atom # 19, coordinates [2.99947564 3.99931264 0.        ], distance to Ag 6.57828272425583
+Interaction force [-3.28648581 -4.3128104   0.        ]
+
+Atom # 20, coordinates [3.99924646 3.9996163  0.        ], distance to Ag 6.935866027371573
+Interaction force [-4.72585465 -2.40904111  0.        ]
+
+
+Step 66
+Atom # 1, coordinates [1.00078888 0.80040171 0.        ], distance to Ag 5.5608951363486545
+Interaction force [4.79973693 2.44686242 0.        ]
+
+Atom # 2, coordinates [2.00054895 0.8007196  0.        ], distance to Ag 5.634671298438956
+Interaction force [3.33773848 4.3803556  0.        ]
+
+Atom # 16, coordinates [3.9989558  3.19915325 0.        ], distance to Ag 6.618101673121768
+Interaction force [-6.35300429 -5.14628384  0.        ]
+
+Atom # 19, coordinates [2.99945105 3.9992804  0.        ], distance to Ag 6.55802075068201
+Interaction force [-3.33773848 -4.3803556   0.        ]
+
+Atom # 20, coordinates [3.99921112 3.99959829 0.        ], distance to Ag 6.916068333979984
+Interaction force [-4.79973693 -2.44686242  0.        ]
+
+
+Step 67
+Atom # 1, coordinates [1.00082531 0.80042026 0.        ], distance to Ag 5.5399435320295485
+Interaction force [4.87362175 2.48469492 0.        ]
+
+Atom # 2, coordinates [2.0005743  0.80075284 0.        ], distance to Ag 5.613258916985692
+Interaction force [3.388985   4.44791058 0.        ]
+
+Atom # 16, coordinates [3.99890758 3.19911416 0.        ], distance to Ag 6.597184591702758
+Interaction force [-6.45078827 -5.22516985  0.        ]
+
+Atom # 19, coordinates [2.9994257  3.99924716 0.        ], distance to Ag 6.537086326705085
+Interaction force [-3.388985   -4.44791058  0.        ]
+
+Atom # 20, coordinates [3.99917469 3.99957974 0.        ], distance to Ag 6.895616298639701
+Interaction force [-4.87362175 -2.48469492  0.        ]
+
+
+Step 68
+Atom # 1, coordinates [1.00086284 0.80043938 0.        ], distance to Ag 5.518304940979316
+Interaction force [4.94750919 2.52253895 0.        ]
+
+Atom # 2, coordinates [2.00060041 0.80078708 0.        ], distance to Ag 5.591140564337618
+Interaction force [3.44022519 4.51547565 0.        ]
+
+Atom # 16, coordinates [3.9988579  3.19907389 0.        ], distance to Ag 6.575581278399546
+Interaction force [-6.54857503 -5.30403824  0.        ]
+
+Atom # 19, coordinates [2.99939959 3.99921292 0.        ], distance to Ag 6.515464958385673
+Interaction force [-3.44022519 -4.51547565  0.        ]
+
+Atom # 20, coordinates [3.99913716 3.99956062 0.        ], distance to Ag 6.874496053344316
+Interaction force [-4.94750919 -2.52253895  0.        ]
+
+
+Step 69
+Atom # 1, coordinates [1.00090149 0.80045907 0.        ], distance to Ag 5.495964582425453
+Interaction force [5.02139932 2.56039487 0.        ]
+
+Atom # 2, coordinates [2.0006273  0.80082234 0.        ], distance to Ag 5.568300701395443
+Interaction force [3.49145884 4.58305112 0.        ]
+
+Atom # 16, coordinates [3.99880674 3.19903241 0.        ], distance to Ag 6.553276926026949
+Interaction force [-6.64636463 -5.38288847  0.        ]
+
+Atom # 19, coordinates [2.9993727  3.99917766 0.        ], distance to Ag 6.49314181099295
+Interaction force [-3.49145884 -4.58305112  0.        ]
+
+Atom # 20, coordinates [3.99909851 3.99954093 0.        ], distance to Ag 6.8526934190855044
+Interaction force [-5.02139932 -2.56039487  0.        ]
+
+
+Step 70
+Atom # 1, coordinates [1.00094128 0.80047934 0.        ], distance to Ag 5.472907319807284
+Interaction force [5.09529223 2.59826302 0.        ]
+
+Atom # 2, coordinates [2.00065498 0.80085864 0.        ], distance to Ag 5.544723390756199
+Interaction force [3.54268576 4.65063728 0.        ]
+
+Atom # 16, coordinates [3.99875407 3.19898972 0.        ], distance to Ag 6.530256366905486
+Interaction force [-6.74415718 -5.46171999  0.        ]
+
+Atom # 19, coordinates [2.99934502 3.99914136 0.        ], distance to Ag 6.4701016878910105
+Interaction force [-3.54268576 -4.65063728  0.        ]
+
+Atom # 20, coordinates [3.99905872 3.99952066 0.        ], distance to Ag 6.830193886811465
+Interaction force [-5.09529223 -2.59826302  0.        ]
+
+
+Step 71
+Atom # 1, coordinates [1.00098222 0.8005002  0.        ], distance to Ag 5.449117638694738
+Interaction force [5.16918799 2.63614378 0.        ]
+
+Atom # 2, coordinates [2.00068346 0.800896   0.        ], distance to Ag 5.520392271347803
+Interaction force [3.59390576 4.71823446 0.        ]
+
+Atom # 16, coordinates [3.99869988 3.19894579 0.        ], distance to Ag 6.506504050264631
+Interaction force [-6.84195275 -5.54053227  0.        ]
+
+Atom # 19, coordinates [2.99931654 3.999104   0.        ], distance to Ag 6.4463290078451845
+Interaction force [-3.59390576 -4.71823446  0.        ]
+
+Atom # 20, coordinates [3.99901778 3.9994998  0.        ], distance to Ag 6.806982596977936
+Interaction force [-5.16918799 -2.63614378  0.        ]
+
+
+Step 72
+Atom # 1, coordinates [1.00102434 0.80052165 0.        ], distance to Ag 5.424579623042589
+Interaction force [5.2430867  2.67403749 0.        ]
+
+Atom # 2, coordinates [2.00071276 0.80093442 0.        ], distance to Ag 5.495290531093378
+Interaction force [3.64511864 4.78584298 0.        ]
+
+Atom # 16, coordinates [3.99864413 3.19890061 0.        ], distance to Ag 6.48200401792199
+Interaction force [-6.93975144 -5.61932473  0.        ]
+
+Atom # 19, coordinates [2.99928724 3.99906558 0.        ], distance to Ag 6.421807780596233
+Interaction force [-3.64511864 -4.78584298  0.        ]
+
+Atom # 20, coordinates [3.99897566 3.99947835 0.        ], distance to Ag 6.783044317557488
+Interaction force [-5.2430867  -2.67403749  0.        ]
+
+
+Step 73
+Atom # 1, coordinates [1.00106764 0.80054371 0.        ], distance to Ag 5.399276929618733
+Interaction force [5.31698843 2.71194453 0.        ]
+
+Atom # 2, coordinates [2.00074288 0.80097393 0.        ], distance to Ag 5.469400877409327
+Interaction force [3.69632417 4.85346315 0.        ]
+
+Atom # 16, coordinates [3.99858682 3.19885415 0.        ], distance to Ag 6.456739878069431
+Interaction force [-7.03755332 -5.69809682  0.        ]
+
+Atom # 19, coordinates [2.99925712 3.99902607 0.        ], distance to Ag 6.396521580532617
+Interaction force [-3.69632417 -4.85346315  0.        ]
+
+Atom # 20, coordinates [3.99893236 3.99945629 0.        ], distance to Ag 6.758363420357225
+Interaction force [-5.31698843 -2.71194453  0.        ]
+
+
+Step 74
+Atom # 1, coordinates [1.00111214 0.80056639 0.        ], distance to Ag 5.373192760426097
+Interaction force [5.39089327 2.74986528 0.        ]
+
+Atom # 2, coordinates [2.00077384 0.80101453 0.        ], distance to Ag 5.442705505317606
+Interaction force [3.74752217 4.9210953  0.        ]
+
+Atom # 16, coordinates [3.99852791 3.19880641 0.        ], distance to Ag 6.430694776977218
+Interaction force [-7.13535849 -5.77684795  0.        ]
+
+Atom # 19, coordinates [2.99922616 3.99898547 0.        ], distance to Ag 6.370453518270944
+Interaction force [-3.74752217 -4.9210953   0.        ]
+
+Atom # 20, coordinates [3.99888786 3.99943361 0.        ], distance to Ag 6.73292385547742
+Interaction force [-5.39089327 -2.74986528  0.        ]
+
+
+Step 75
+Atom # 1, coordinates [1.00115787 0.80058968 0.        ], distance to Ag 5.346309832916227
+Interaction force [5.46480131 2.78780012 0.        ]
+
+Atom # 2, coordinates [2.00080565 0.80105625 0.        ], distance to Ag 5.415186062925798
+Interaction force [3.79871241 4.98873976 0.        ]
+
+Atom # 16, coordinates [3.99846739 3.19875736 0.        ], distance to Ag 6.403851368404387
+Interaction force [-7.23316703 -5.85557753  0.        ]
+
+Atom # 19, coordinates [2.99919435 3.99894375 0.        ], distance to Ag 6.343586209931803
+Interaction force [-3.79871241 -4.98873976  0.        ]
+
+Atom # 20, coordinates [3.99884213 3.99941032 0.        ], distance to Ag 6.706709123723563
+Interaction force [-5.46480131 -2.78780012  0.        ]
+
+
+Step 76
+Atom # 1, coordinates [1.00120483 0.80061361 0.        ], distance to Ag 5.318610347768017
+Interaction force [5.53871263 2.82574942 0.        ]
+
+Atom # 2, coordinates [2.00083832 0.8010991  0.        ], distance to Ag 5.386823613997882
+Interaction force [3.84989468 5.05639687 0.        ]
+
+Atom # 16, coordinates [3.99840523 3.19870698 0.        ], distance to Ag 6.376191780477646
+Interaction force [-7.33097905 -5.93428499  0.        ]
+
+Atom # 19, coordinates [2.99916168 3.9989009  0.        ], distance to Ag 6.315901743872032
+Interaction force [-3.84989468 -5.05639687  0.        ]
+
+Atom # 20, coordinates [3.99879517 3.99938639 0.        ], distance to Ag 6.679702246761359
+Interaction force [-5.53871263 -2.82574942  0.        ]
+
+
+Step 77
+Atom # 1, coordinates [1.00125304 0.80063817 0.        ], distance to Ag 5.2900759539768965
+Interaction force [5.61262733 2.86371359 0.        ]
+
+Atom # 2, coordinates [2.00087185 0.80114309 0.        ], distance to Ag 5.3575985973033875
+Interaction force [3.90106877 5.12406698 0.        ]
+
+Atom # 16, coordinates [3.99834142 3.19865526 0.        ], distance to Ag 6.347697579771266
+Interaction force [-7.42879462 -6.01296972  0.        ]
+
+Atom # 19, coordinates [2.99912815 3.99885691 0.        ], distance to Ag 6.2873816446045865
+Interaction force [-3.90106877 -5.12406698  0.        ]
+
+Atom # 20, coordinates [3.99874696 3.99936183 0.        ], distance to Ag 6.651885734778139
+Interaction force [-5.61262733 -2.86371359  0.        ]
+
+
+Step 78
+Atom # 1, coordinates [1.00130252 0.80066339 0.        ], distance to Ag 5.2606877109676615
+Interaction force [5.68654549 2.90169301 0.        ]
+
+Atom # 2, coordinates [2.00090627 0.80118824 0.        ], distance to Ag 5.327490782392174
+Interaction force [3.95223445 5.19175041 0.        ]
+
+Atom # 16, coordinates [3.99827592 3.19860218 0.        ], distance to Ag 6.318349732286384
+Interaction force [-7.52661385 -6.0916311   0.        ]
+
+Atom # 19, coordinates [2.99909373 3.99881176 0.        ], distance to Ag 6.258006833602861
+Interaction force [-3.95223445 -5.19175041  0.        ]
+
+Atom # 20, coordinates [3.99869748 3.99933661 0.        ], distance to Ag 6.623241551384072
+Interaction force [-5.68654549 -2.90169301  0.        ]
+
+
+Step 79
+Atom # 1, coordinates [1.00135329 0.80068926 0.        ], distance to Ag 5.2304260474070565
+Interaction force [5.7604672  2.93968809 0.        ]
+
+Atom # 2, coordinates [2.00094158 0.80123456 0.        ], distance to Ag 5.296479221395486
+Interaction force [4.0033915  5.25944753 0.        ]
+
+Atom # 16, coordinates [3.99820872 3.19854773 0.        ], distance to Ag 6.288128560988856
+Interaction force [-7.62443682 -6.17026853  0.        ]
+
+Atom # 19, coordinates [2.99905842 3.99876544 0.        ], distance to Ag 6.227757586646871
+Interaction force [-4.0033915  -5.25944753  0.        ]
+
+Atom # 20, coordinates [3.99864671 3.99931074 0.        ], distance to Ag 6.593751075452211
+Interaction force [-5.7604672  -2.93968809  0.        ]
+
+
+Step 80
+Atom # 1, coordinates [1.00140536 0.80071579 0.        ], distance to Ag 5.199270716349661
+Interaction force [5.83439256 2.97769923 0.        ]
+
+Atom # 2, coordinates [2.0009778  0.80128207 0.        ], distance to Ag 5.264542196400067
+Interaction force [4.0545397  5.32715869 0.        ]
+
+Atom # 16, coordinates [3.9981398  3.19849188 0.        ], distance to Ag 6.257013699519601
+Interaction force [-7.72226363 -6.24888138  0.        ]
+
+Atom # 19, coordinates [2.9990222  3.99871793 0.        ], distance to Ag 6.196613487323276
+Interaction force [-4.0545397  -5.32715869  0.        ]
+
+Atom # 20, coordinates [3.99859464 3.99928421 0.        ], distance to Ag 6.563395059556673
+Interaction force [-5.83439256 -2.97769923  0.        ]
+
+
+Step 81
+Atom # 1, coordinates [1.00145875 0.800743   0.        ], distance to Ag 5.167200746301409
+Interaction force [5.90832167 3.01572684 0.        ]
+
+Atom # 2, coordinates [2.00101494 0.80133079 0.        ], distance to Ag 5.2316571618798
+Interaction force [4.10567881 5.39488424 0.        ]
+
+Atom # 16, coordinates [3.99806914 3.19843462 0.        ], distance to Ag 6.224984041639131
+Interaction force [-7.82009439 -6.32746902  0.        ]
+
+Atom # 19, coordinates [2.99898506 3.99866921 0.        ], distance to Ag 6.16455337623862
+Interaction force [-4.10567881 -5.39488424  0.        ]
+
+Atom # 20, coordinates [3.99854125 3.999257   0.        ], distance to Ag 6.532153584622455
+Interaction force [-5.90832167 -3.01572684  0.        ]
+
+
+Step 82
+Atom # 1, coordinates [1.00151347 0.80077089 0.        ], distance to Ag 5.134194387728094
+Interaction force [5.98225461 3.05377133 0.        ]
+
+Atom # 2, coordinates [2.001053   0.80138073 0.        ], distance to Ag 5.197800681596806
+Interaction force [4.15680861 5.46262454 0.        ]
+
+Atom # 16, coordinates [3.9979967  3.19837593 0.        ], distance to Ag 6.192017685907328
+Interaction force [-7.91792918 -6.4060308   0.        ]
+
+Atom # 19, coordinates [2.998947   3.99861927 0.        ], distance to Ag 6.131555295444311
+Interaction force [-4.15680861 -5.46262454  0.        ]
+
+Atom # 20, coordinates [3.99848653 3.99922911 0.        ], distance to Ag 6.500006010347354
+Interaction force [-5.98225461 -3.05377133  0.        ]
+
+
+Step 83
+Atom # 1, coordinates [1.00156955 0.80079947 0.        ], distance to Ag 5.100229054470003
+Interaction force [6.05619148 3.09183314 0.        ]
+
+Atom # 2, coordinates [2.001092  0.8014319 0.       ], distance to Ag 5.162948359299583
+Interaction force [4.20792885 5.53037997 0.        ]
+
+Atom # 16, coordinates [3.99792248 3.19831579 0.        ], distance to Ag 6.158091875029172
+Interaction force [-8.0157681  -6.48456608  0.        ]
+
+Atom # 19, coordinates [2.998908  3.9985681 0.       ], distance to Ag 6.097596427500996
+Interaction force [-4.20792885 -5.53037997  0.        ]
+
+Atom # 20, coordinates [3.99843045 3.99920053 0.        ], distance to Ag 6.466930920894768
+Interaction force [-6.05619148 -3.09183314  0.        ]
+
+
+Step 84
+Atom # 1, coordinates [1.00162699 0.80082875 0.        ], distance to Ag 5.0652812594467695
+Interaction force [6.13013238 3.12991268 0.        ]
+
+Atom # 2, coordinates [2.00113195 0.80148432 0.        ], distance to Ag 5.127074762446984
+Interaction force [4.2590393 5.5981509 0.       ]
+
+Atom # 16, coordinates [3.99784645 3.19825418 0.        ], distance to Ag 6.123182929214968
+Interaction force [-8.11361126 -6.5630742   0.        ]
+
+Atom # 19, coordinates [2.99886805 3.99851568 0.        ], distance to Ag 6.062653028527474
+Interaction force [-4.2590393 -5.5981509  0.       ]
+
+Atom # 20, coordinates [3.99837301 3.99917125 0.        ], distance to Ag 6.432906065284446
+Interaction force [-6.13013238 -3.12991268  0.        ]
+
+
+Step 85
+Atom # 1, coordinates [1.00168582 0.80085873 0.        ], distance to Ag 5.029326543946376
+Interaction force [6.20407741 3.16801039 0.        ]
+
+Atom # 2, coordinates [2.00117286 0.801538   0.        ], distance to Ag 5.090153338071117
+Interaction force [4.31013972 5.66593769 0.        ]
+
+Atom # 16, coordinates [3.99776858 3.1981911  0.        ], distance to Ag 6.087266172807591
+Interaction force [-8.21145875 -6.64155449  0.        ]
+
+Atom # 19, coordinates [2.99882714 3.998462   0.        ], distance to Ag 6.026700354482655
+Interaction force [-4.31013972 -5.66593769  0.        ]
+
+Atom # 20, coordinates [3.99831418 3.99914127 0.        ], distance to Ag 6.397908291824278
+Interaction force [-6.20407741 -3.16801039  0.        ]
+
+
+Step 86
+Atom # 1, coordinates [1.00174605 0.80088943 0.        ], distance to Ag 4.992339399686634
+Interaction force [6.27802667 3.20612669 0.        ]
+
+Atom # 2, coordinates [2.00121475 0.80159296 0.        ], distance to Ag 5.052156319755986
+Interaction force [4.36122986 5.73374073 0.        ]
+
+Atom # 16, coordinates [3.99768886 3.19812651 0.        ], distance to Ag 6.050315853316582
+Interaction force [-8.30931067 -6.72000629  0.        ]
+
+Atom # 19, coordinates [2.99878525 3.99840704 0.        ], distance to Ag 5.989712579815769
+Interaction force [-4.36122986 -5.73374073  0.        ]
+
+Atom # 20, coordinates [3.99825395 3.99911057 0.        ], distance to Ag 6.36191347582792
+Interaction force [-6.27802667 -3.20612669  0.        ]
+
+
+Step 87
+Atom # 1, coordinates [1.00180769 0.80092086 0.        ], distance to Ag 4.9542931827131556
+Interaction force [6.35198025 3.24426204 0.        ]
+
+Atom # 2, coordinates [2.00125762 0.80164922 0.        ], distance to Ag 5.0130546245478715
+Interaction force [4.41230947 5.8015604  0.        ]
+
+Atom # 16, coordinates [3.99760726 3.19806041 0.        ], distance to Ag 6.012305051866225
+Interaction force [-8.40716714 -6.7984289   0.        ]
+
+Atom # 19, coordinates [2.99874238 3.99835078 0.        ], distance to Ag 5.951662707486557
+Interaction force [-4.41230947 -5.8015604   0.        ]
+
+Atom # 20, coordinates [3.99819231 3.99907914 0.        ], distance to Ag 6.324896439747334
+Interaction force [-6.35198025 -3.24426204  0.        ]
+
+
+Step 88
+Atom # 1, coordinates [1.00187078 0.80095301 0.        ], distance to Ag 4.915160018051093
+Interaction force [6.42593826 3.28241688 0.        ]
+
+Atom # 2, coordinates [2.00130149 0.80170679 0.        ], distance to Ag 4.972817738422674
+Interaction force [4.4633783  5.86939709 0.        ]
+
+Atom # 16, coordinates [3.99752377 3.19799277 0.        ], distance to Ag 5.973205583907908
+Interaction force [-8.50502825 -6.87682164  0.        ]
+
+Atom # 19, coordinates [2.99869851 3.99829321 0.        ], distance to Ag 5.912522469199462
+Interaction force [-4.4633783  -5.86939709  0.        ]
+
+Atom # 20, coordinates [3.99812922 3.99904699 0.        ], distance to Ag 6.28683086471277
+Interaction force [-6.42593826 -3.28241688  0.        ]
+
+
+Step 89
+Atom # 1, coordinates [1.00193531 0.80098591 0.        ], distance to Ag 4.874910693854008
+Interaction force [6.49990081 3.32059166 0.        ]
+
+Atom # 2, coordinates [2.00134637 0.80176569 0.        ], distance to Ag 4.931413588708613
+Interaction force [4.51443611 5.9372512  0.        ]
+
+Atom # 16, coordinates [3.99743835 3.19792358 0.        ], distance to Ag 5.932987888861151
+Interaction force [-8.6028941  -6.95518381  0.        ]
+
+Atom # 19, coordinates [2.99865363 3.99823431 0.        ], distance to Ag 5.872262214508752
+Interaction force [-4.51443611 -5.9372512   0.        ]
+
+Atom # 20, coordinates [3.99806469 3.99901409 0.        ], distance to Ag 6.2476891923108795
+Interaction force [-6.49990081 -3.32059166  0.        ]
+
+
+Step 90
+Atom # 1, coordinates [1.00200131 0.80101956 0.        ], distance to Ag 4.833514543586321
+Interaction force [6.573868   3.35878683 0.        ]
+
+Atom # 2, coordinates [2.00139226 0.80182592 0.        ], distance to Ag 4.888808401591507
+Interaction force [4.56548262 6.00512312 0.        ]
+
+Atom # 16, coordinates [3.99735099 3.19785282 0.        ], distance to Ag 5.891620907126197
+Interaction force [-8.70076481 -7.03351471  0.        ]
+
+Atom # 19, coordinates [2.99860774 3.99817408 0.        ], distance to Ag 5.830850787228808
+Interaction force [-4.56548262 -6.00512312  0.        ]
+
+Atom # 20, coordinates [3.99799869 3.99898044 0.        ], distance to Ag 6.207442515239277
+Interaction force [-6.573868   -3.35878683  0.        ]
+
+
+Step 91
+Atom # 1, coordinates [1.00206879 0.80105396 0.        ], distance to Ag 4.790939314528656
+Interaction force [6.64783993 3.39700286 0.        ]
+
+Atom # 2, coordinates [2.00143918 0.80188751 0.        ], distance to Ag 4.844966542504669
+Interaction force [4.61651759 6.07301325 0.        ]
+
+Atom # 16, coordinates [3.99726167 3.19778047 0.        ], distance to Ag 5.849071942646428
+Interaction force [-8.79864048 -7.11181362  0.        ]
+
+Atom # 19, coordinates [2.99856082 3.99811249 0.        ], distance to Ag 5.788255387317453
+Interaction force [-4.61651759 -6.07301325  0.        ]
+
+Atom # 20, coordinates [3.99793121 3.99894604 0.        ], distance to Ag 6.166060455246032
+Interaction force [-6.64783993 -3.39700286  0.        ]
+
+
+Step 92
+Atom # 1, coordinates [1.00213777 0.80108914 0.        ], distance to Ag 4.747151020598837
+Interaction force [6.72181671 3.43524022 0.        ]
+
+Atom # 2, coordinates [2.00148715 0.80195047 0.        ], distance to Ag 4.79985033681337
+Interaction force [4.66754074 6.14092199 0.        ]
+
+Atom # 16, coordinates [3.99717037 3.19770652 0.        ], distance to Ag 5.805306508881032
+Interaction force [-8.89652121 -7.19007982  0.        ]
+
+Atom # 19, coordinates [2.99851285 3.99804953 0.        ], distance to Ag 5.744441416080514
+Interaction force [-4.66754074 -6.14092199  0.        ]
+
+Atom # 20, coordinates [3.99786223 3.99891086 0.        ], distance to Ag 6.12351102648707
+Interaction force [-6.72181671 -3.43524022  0.        ]
+
+
+Step 93
+Atom # 1, coordinates [1.00220827 0.80112509 0.        ], distance to Ag 4.702113777124011
+Interaction force [6.79579845 3.47349937 0.        ]
+
+Atom # 2, coordinates [2.00153617 0.80201482 0.        ], distance to Ag 4.7534198677293045
+Interaction force [4.71855181 6.20884977 0.        ]
+
+Atom # 16, coordinates [3.99707705 3.19763094 0.        ], distance to Ag 5.760288155665182
+Interaction force [-8.99440712 -7.26831257  0.        ]
+
+Atom # 19, coordinates [2.99846383 3.99798518 0.        ], distance to Ag 5.699372302160227
+Interaction force [-4.71855181 -6.20884977  0.        ]
+
+Atom # 20, coordinates [3.99779173 3.99887491 0.        ], distance to Ag 6.079760482102643
+Interaction force [-6.79579845 -3.47349937  0.        ]
+
+
+Step 94
+Atom # 1, coordinates [1.00228031 0.80116182 0.        ], distance to Ag 4.65578961476674
+Interaction force [6.86978525 3.5117808  0.        ]
+
+Atom # 2, coordinates [2.00158625 0.80208056 0.        ], distance to Ag 4.705632747812967
+Interaction force [4.76955053 6.27679699 0.        ]
+
+Atom # 16, coordinates [3.99698171 3.19755373 0.        ], distance to Ag 5.713978273970766
+Interaction force [-9.09229831 -7.34651114  0.        ]
+
+Atom # 19, coordinates [2.99841375 3.99791944 0.        ], distance to Ag 5.653009305302888
+Interaction force [-4.76955053 -6.27679699  0.        ]
+
+Atom # 20, coordinates [3.99771969 3.99883818 0.        ], distance to Ag 6.034773141412512
+Interaction force [-6.86978525 -3.5117808   0.        ]
+
+
+Step 95
+Atom # 1, coordinates [1.00235389 0.80119934 0.        ], distance to Ag 4.6081382692814685
+Interaction force [6.94377724 3.55008498 0.        ]
+
+Atom # 2, coordinates [2.00163741 0.80214773 0.        ], distance to Ag 4.65644385971563
+Interaction force [4.82053663 6.34476406 0.        ]
+
+Atom # 16, coordinates [3.99688431 3.19747485 0.        ], distance to Ag 5.6663358750154735
+Interaction force [-9.1901949  -7.42467478  0.        ]
+
+Atom # 19, coordinates [2.99836259 3.99785227 0.        ], distance to Ag 5.605311294332385
+Interaction force [-4.82053663 -6.34476406  0.        ]
+
+Atom # 20, coordinates [3.99764611 3.99880066 0.        ], distance to Ag 5.988511194641363
+Interaction force [-6.94377724 -3.55008498  0.        ]
+
+
+Step 96
+Atom # 1, coordinates [1.00242904 0.80123767 0.        ], distance to Ag 4.559116943134005
+Interaction force [7.01777451 3.5884124  0.        ]
+
+Atom # 2, coordinates [2.00168966 0.80221632 0.        ], distance to Ag 4.605805060944211
+Interaction force [4.87150983 6.41275142 0.        ]
+
+Atom # 16, coordinates [3.99678484 3.19739431 0.        ], distance to Ag 5.617317339476483
+Interaction force [-9.288097   -7.50280273  0.        ]
+
+Atom # 19, coordinates [2.99831034 3.99778368 0.        ], distance to Ag 5.556234495060084
+Interaction force [-4.87150983 -6.41275142  0.        ]
+
+Atom # 20, coordinates [3.99757096 3.99876233 0.        ], distance to Ag 5.9409344814895215
+Interaction force [-7.01777451 -3.5884124   0.        ]
+
+
+Step 97
+Atom # 1, coordinates [1.00250577 0.8012768  0.        ], distance to Ag 4.508680034224743
+Interaction force [7.09177719 3.62676355 0.        ]
+
+Atom # 2, coordinates [2.00174301 0.80228636 0.        ], distance to Ag 4.553664846358254
+Interaction force [4.92246985 6.48075949 0.        ]
+
+Atom # 16, coordinates [3.99668328 3.19731207 0.        ], distance to Ag 5.566876131714
+Interaction force [-9.38600472 -7.58089423  0.        ]
+
+Atom # 19, coordinates [2.99825699 3.99771364 0.        ], distance to Ag 5.505732203004919
+Interaction force [-4.92246985 -6.48075949  0.        ]
+
+Atom # 20, coordinates [3.99749423 3.9987232  0.        ], distance to Ag 5.892000239131188
+Interaction force [-7.09177719 -3.62676355  0.        ]
+
+
+Step 98
+Atom # 1, coordinates [1.00258411 0.80131675 0.        ], distance to Ag 4.456778825976915
+Interaction force [7.16578538 3.66513893 0.        ]
+
+Atom # 2, coordinates [2.00179746 0.80235786 0.        ], distance to Ag 4.499967960771978
+Interaction force [4.97341641 6.5487887  0.        ]
+
+Atom # 16, coordinates [3.9965796  3.19722812 0.        ], distance to Ag 5.514962472856918
+Interaction force [-9.48391817 -7.65894851  0.        ]
+
+Atom # 19, coordinates [2.99820254 3.99764214 0.        ], distance to Ag 5.453754454737385
+Interaction force [-4.97341641 -6.5487887   0.        ]
+
+Atom # 20, coordinates [3.99741589 3.99868325 0.        ], distance to Ag 5.841662814317046
+Interaction force [-7.16578538 -3.66513893  0.        ]
+
+
+Step 99
+Atom # 1, coordinates [1.00266405 0.80135753 0.        ], distance to Ag 4.403361131831988
+Interaction force [7.23979921 3.70353905 0.        ]
+
+Atom # 2, coordinates [2.00185304 0.80243084 0.        ], distance to Ag 4.444654952360856
+Interaction force [5.02434923 6.61683949 0.        ]
+
+Atom # 16, coordinates [3.99647378 3.19714245 0.        ], distance to Ag 5.461522965291914
+Interaction force [-9.58183747 -7.73696478  0.        ]
+
+Atom # 19, coordinates [2.99814696 3.99756916 0.        ], distance to Ag 5.400247650341122
+Interaction force [-5.02434923 -6.61683949  0.        ]
+
+Atom # 20, coordinates [3.99733595 3.99864247 0.        ], distance to Ag 5.789873333132769
+Interaction force [-7.23979921 -3.70353905  0.        ]
+
+
+Step 100
+Atom # 1, coordinates [1.00274563 0.80139915 0.        ], distance to Ag 4.3483708856670455
+Interaction force [7.31381878 3.7419644  0.        ]
+
+Atom # 2, coordinates [2.00190975 0.80250531 0.        ], distance to Ag 4.387661655462339
+Interaction force [5.075268  6.6849123 0.       ]
+
+Atom # 16, coordinates [3.9963658  3.19705503 0.        ], distance to Ag 5.406500159454792
+Interaction force [-9.67976273 -7.81494227  0.        ]
+
+Atom # 19, coordinates [2.99809025 3.99749469 0.        ], distance to Ag 5.345154117831577
+Interaction force [-5.075268  -6.6849123  0.       ]
+
+Atom # 20, coordinates [3.99725437 3.99860085 0.        ], distance to Ag 5.736579320557403
+Interaction force [-7.31381878 -3.7419644   0.        ]
+
+
+Step 101
+Atom # 1, coordinates [1.00282886 0.80144161 0.        ], distance to Ag 4.291747667722309
+Interaction force [7.38784422 3.78041551 0.        ]
+
+Atom # 2, coordinates [2.00196761 0.80258129 0.        ], distance to Ag 4.3289185886807955
+Interaction force [5.12617245 6.75300757 0.        ]
+
+Atom # 16, coordinates [3.99625564 3.19696585 0.        ], distance to Ag 5.349832051750777
+Interaction force [-9.77769408 -7.89288016  0.        ]
+
+Atom # 19, coordinates [2.99803239 3.99741871 0.        ], distance to Ag 5.288411608284154
+Interaction force [-5.12617245 -6.75300757  0.        ]
+
+Atom # 20, coordinates [3.99717114 3.99855839 0.        ], distance to Ag 5.6817242601932
+Interaction force [-7.38784422 -3.78041551  0.        ]
+
+
+Step 102
+Atom # 1, coordinates [1.00291376 0.80148492 0.        ], distance to Ag 4.233426153178565
+Interaction force [7.46187565 3.81889288 0.        ]
+
+Atom # 2, coordinates [2.00202662 0.80265879 0.        ], distance to Ag 4.268350250777501
+Interaction force [5.17706227 6.82112574 0.        ]
+
+Atom # 16, coordinates [3.99614328 3.19687489 0.        ], distance to Ag 5.2914514997977165
+Interaction force [-9.87563162 -7.97077765  0.        ]
+
+Atom # 19, coordinates [2.99797338 3.99734121 0.        ], distance to Ag 5.229952707771869
+Interaction force [-5.17706227 -6.82112574  0.        ]
+
+Atom # 20, coordinates [3.99708624 3.99851508 0.        ], distance to Ag 5.625247082290736
+Interaction force [-7.46187565 -3.81889288  0.        ]
+
+
+Step 103
+Atom # 1, coordinates [1.00300033 0.80152909 0.        ], distance to Ag 4.173335467388206
+Interaction force [7.53591318 3.85739704 0.        ]
+
+Atom # 2, coordinates [2.00208679 0.80273783 0.        ], distance to Ag 4.2058742924014805
+Interaction force [5.22793717 6.88926728 0.        ]
+
+Atom # 16, coordinates [3.99602868 3.19678213 0.        ], distance to Ag 5.23128553781494
+Interaction force [-9.97357547 -8.04863394  0.        ]
+
+Atom # 19, coordinates [2.99791321 3.99726217 0.        ], distance to Ag 5.1697041488156446
+Interaction force [-5.22793717 -6.88926728  0.        ]
+
+Atom # 20, coordinates [3.99699967 3.99847091 0.        ], distance to Ag 5.567081565320803
+Interaction force [-7.53591318 -3.85739704  0.        ]
+
+
+Step 104
+Atom # 1, coordinates [1.00308861 0.80157413 0.        ], distance to Ag 4.111398427713032
+Interaction force [7.60995694 3.89592851 0.        ]
+
+Atom # 2, coordinates [2.00214815 0.80281842 0.        ], distance to Ag 4.141400535956554
+Interaction force [5.27879685 6.95743263 0.        ]
+
+Atom # 16, coordinates [3.99591184 3.19668756 0.        ], distance to Ag 5.169254570628434
+Interaction force [-10.07152576  -8.12644819   0.        ]
+
+Atom # 19, coordinates [2.99785185 3.99718158 0.        ], distance to Ag 5.107585999664051
+Interaction force [-5.27879685 -6.95743263  0.        ]
+
+Atom # 20, coordinates [3.99691139 3.99842587 0.        ], distance to Ag 5.5071556326444036
+Interaction force [-7.60995694 -3.89592851  0.        ]
+
+
+Step 105
+Atom # 1, coordinates [1.0031786  0.80162005 0.        ], distance to Ag 4.047530646642623
+Interaction force [7.68400704 3.93448784 0.        ]
+
+Atom # 2, coordinates [2.00221069 0.80290058 0.        ], distance to Ag 4.0748298083299055
+Interaction force [5.32964099 7.02562227 0.        ]
+
+Atom # 16, coordinates [3.99579273 3.19659116 0.        ], distance to Ag 5.105271419094973
+Interaction force [-10.1694826   -8.20421957   0.        ]
+
+Atom # 19, coordinates [2.99778931 3.99709942 0.        ], distance to Ag 5.043510704005437
+Interaction force [-5.32964099 -7.02562227  0.        ]
+
+Atom # 20, coordinates [3.9968214  3.99837995 0.        ], distance to Ag 5.445390521024004
+Interaction force [-7.68400704 -3.93448784  0.        ]
+
+
+Step 106
+Atom # 1, coordinates [1.00327032 0.80166686 0.        ], distance to Ag 3.981639463919558
+Interaction force [7.75806362 3.97307555 0.        ]
+
+Atom # 2, coordinates [2.00227444 0.80298433 0.        ], distance to Ag 4.006052541157902
+Interaction force [5.38046929 7.09383664 0.        ]
+
+Atom # 16, coordinates [3.99567133 3.19649291 0.        ], distance to Ag 5.039240182296193
+Interaction force [-10.26744611  -8.28194726   0.        ]
+
+Atom # 19, coordinates [2.99772556 3.99701567 0.        ], distance to Ag 4.977381936201511
+Interaction force [-5.38046929 -7.09383664  0.        ]
+
+Atom # 20, coordinates [3.99672968 3.99833314 0.        ], distance to Ag 5.381699791413261
+Interaction force [-7.75806362 -3.97307555  0.        ]
+
+
+Step 107
+Atom # 1, coordinates [1.00336379 0.80171456 0.        ], distance to Ag 3.9136226661588234
+Interaction force [7.83212679 4.01169218 0.        ]
+
+Atom # 2, coordinates [2.0023394  0.80306967 0.        ], distance to Ag 3.934947079816675
+Interaction force [5.43128144 7.16207624 0.        ]
+
+Atom # 16, coordinates [3.99554762 3.1963928  0.        ], distance to Ag 4.971054871957537
+Interaction force [-10.36541642  -8.35963039   0.        ]
+
+Atom # 19, coordinates [2.9976606  3.99693033 0.        ], distance to Ag 4.909093227149854
+Interaction force [-5.43128144 -7.16207624  0.        ]
+
+Atom # 20, coordinates [3.99663621 3.99828544 0.        ], distance to Ag 5.315988144109096
+Interaction force [-7.83212679 -4.01169218  0.        ]
+
+
+Step 108
+Atom # 1, coordinates [1.00345903 0.80176316 0.        ], distance to Ag 3.8433669400232815
+Interaction force [7.90619669 4.05033829 0.        ]
+
+Atom # 2, coordinates [2.00240558 0.80315662 0.        ], distance to Ag 3.8613776240056925
+Interaction force [5.48207713 7.23034151 0.        ]
+
+Atom # 16, coordinates [3.99542157 3.1962908  0.        ], distance to Ag 4.900597761260353
+Interaction force [-10.46339365  -8.43726811   0.        ]
+
+Atom # 19, coordinates [2.99759442 3.99684338 0.        ], distance to Ag 4.838526302477101
+Interaction force [-5.48207713 -7.23034151  0.        ]
+
+Atom # 20, coordinates [3.99654097 3.99823684 0.        ], distance to Ag 5.2481499891650865
+Interaction force [-7.90619669 -4.05033829  0.        ]
+
+
+Step 109
+Atom # 1, coordinates [1.00355604 0.80181268 0.        ], distance to Ag 3.770745988100197
+Interaction force [7.98027344 4.08901442 0.        ]
+
+Atom # 2, coordinates [2.00247299 0.80324521 0.        ], distance to Ag 3.7851916975898825
+Interaction force [5.53285602 7.29863295 0.        ]
+
+Atom # 16, coordinates [3.99529316 3.1961869  0.        ], distance to Ag 4.827737372164682
+Interaction force [-10.56137792  -8.51485957   0.        ]
+
+Atom # 19, coordinates [2.99752701 3.99675479 0.        ], distance to Ag 4.765549056545738
+Interaction force [-5.53285602 -7.29863295  0.        ]
+
+Atom # 20, coordinates [3.99644396 3.99818732 0.        ], distance to Ag 5.178067707813567
+Interaction force [-7.98027344 -4.08901442  0.        ]
+
+
+Step 110
+Atom # 1, coordinates [1.00365485 0.80186312 0.        ], distance to Ag 3.6956182132827604
+Interaction force [8.05435717 4.12772113 0.        ]
+
+Atom # 2, coordinates [2.00254166 0.80333544 0.        ], distance to Ag 3.7062170102038765
+Interaction force [5.58361781 7.36695104 0.        ]
+
+Atom # 16, coordinates [3.99516238 3.19608108 0.        ], distance to Ag 4.752326000520824
+Interaction force [-10.65936935  -8.59240388   0.        ]
+
+Atom # 19, coordinates [2.99745834 3.99666456 0.        ], distance to Ag 4.690013060676819
+Interaction force [-5.58361781 -7.36695104  0.        ]
+
+Atom # 20, coordinates [3.99634515 3.99813688 0.        ], distance to Ag 5.1056095198581435
+Interaction force [-8.05435717 -4.12772113  0.        ]
+
+
+Step 111
+Atom # 1, coordinates [1.00375548 0.80191449 0.        ], distance to Ag 3.617823844782298
+Interaction force [8.12844801 4.16645899 0.        ]
+
+Atom # 2, coordinates [2.00261158 0.80342733 0.        ], distance to Ag 3.6242575233068863
+Interaction force [5.63436216 7.43529625 0.        ]
+
+Atom # 16, coordinates [3.99502919 3.19597333 0.        ], distance to Ag 4.674196643585399
+Interaction force [-10.75736806  -8.66990016   0.        ]
+
+Atom # 19, coordinates [2.99738842 3.99657267 0.        ], distance to Ag 4.611750468976846
+Interaction force [-5.63436216 -7.43529625  0.        ]
+
+Atom # 20, coordinates [3.99624452 3.99808551 0.        ], distance to Ag 5.0306268430882914
+Interaction force [-8.12844801 -4.16645899  0.        ]
+
+
+Step 112
+Atom # 1, coordinates [1.00385794 0.8019668  0.        ], distance to Ag 3.5371813324068047
+Interaction force [8.20254608 4.20522856 0.        ]
+
+Atom # 2, coordinates [2.00268277 0.80352089 0.        ], distance to Ag 3.5390884616023732
+Interaction force [5.68508876 7.50366909 0.        ]
+
+Atom # 16, coordinates [3.99489358 3.19586363 0.        ], distance to Ag 4.593159145441848
+Interaction force [-10.8553742   -8.74734752   0.        ]
+
+Atom # 19, coordinates [2.99731723 3.99647911 0.        ], distance to Ag 4.530570135518695
+Interaction force [-5.68508876 -7.50366909  0.        ]
+
+Atom # 20, coordinates [3.99614206 3.9980332  0.        ], distance to Ag 4.952950989947573
+Interaction force [-8.20254608 -4.20522856  0.        ]
+
+
+Step 113
+Atom # 1, coordinates [1.00396225 0.80202005 0.        ], distance to Ag 3.45348276841982
+Interaction force [8.27665153 4.24403041 0.        ]
+
+Atom # 2, coordinates [2.00275523 0.80361614 0.        ], distance to Ag 3.4504499053792914
+Interaction force [5.73579725 7.57207004 0.        ]
+
+Atom # 16, coordinates [3.99475552 3.19575195 0.        ], distance to Ag 4.5089953050483444
+Interaction force [-10.95338787  -8.82474507   0.        ]
+
+Atom # 19, coordinates [2.99724477 3.99638386 0.        ], distance to Ag 4.446252685057162
+Interaction force [-5.73579725 -7.57207004  0.        ]
+
+Atom # 20, coordinates [3.99603775 3.99797995 0.        ], distance to Ag 4.872388988086784
+Interaction force [-8.27665153 -4.24403041  0.        ]
+
+
+Step 114
+Atom # 1, coordinates [1.00406841 0.80207426 0.        ], distance to Ag 3.366487996868554
+Interaction force [8.35076449 4.28286511 0.        ]
+
+Atom # 2, coordinates [2.002829  0.8037131 0.       ], distance to Ag 3.3580384414451934
+Interaction force [5.78648731 7.6404996  0.        ]
+
+Atom # 16, coordinates [3.994615   3.19563829 0.        ], distance to Ag 4.421452587727549
+Interaction force [-11.05140921  -8.9020919    0.        ]
+
+Atom # 19, coordinates [2.997171  3.9962869 0.       ], distance to Ag 4.358544174322824
+Interaction force [-5.78648731 -7.6404996   0.        ]
+
+Atom # 20, coordinates [3.99593159 3.99792574 0.        ], distance to Ag 4.788718225751919
+Interaction force [-8.35076449 -4.28286511  0.        ]
+
+
+Step 115
+Atom # 1, coordinates [1.00417646 0.80212944 0.        ], distance to Ag 3.2759169201649874
+Interaction force [8.42488508 4.32173326 0.        ]
+
+Atom # 2, coordinates [2.00290406 0.80381178 0.        ], distance to Ag 3.2614961081807885
+Interaction force [5.83715861 7.70895828 0.        ]
+
+Atom # 16, coordinates [3.99447199 3.19552263 0.        ], distance to Ag 4.330235925169165
+Interaction force [-11.14943834  -8.97938709   0.        ]
+
+Atom # 19, coordinates [2.99709594 3.99618822 0.        ], distance to Ag 4.267147823242845
+Interaction force [-5.83715861 -7.70895828  0.        ]
+
+Atom # 20, coordinates [3.99582354 3.99787056 0.        ], distance to Ag 4.701679495095513
+Interaction force [-8.42488508 -4.32173326  0.        ]
+
+
+Step 116
+Atom # 1, coordinates [1.00428641 0.80218559 0.        ], distance to Ag 3.181439280396539
+Interaction force [8.49901345 4.36063543 0.        ]
+
+Atom # 2, coordinates [2.00298044 0.80391219 0.        ], distance to Ag 3.160395489093828
+Interaction force [5.88781079 7.77744657 0.        ]
+
+Atom # 16, coordinates [3.99432647 3.19540494 0.        ], distance to Ag 4.234996850093016
+Interaction force [-11.2474754   -9.05662972   0.        ]
+
+Atom # 19, coordinates [2.99701956 3.99608781 0.        ], distance to Ag 4.171713053327714
+Interaction force [-5.88781079 -7.77744657  0.        ]
+
+Atom # 20, coordinates [3.99571359 3.99781441 0.        ], distance to Ag 4.6109678112757795
+Interaction force [-8.49901345 -4.36063543  0.        ]
+
+
+Step 117
+Atom # 1, coordinates [1.00439827 0.80224272 0.        ], distance to Ag 3.0826608230479122
+Interaction force [8.57314974 4.39957221 0.        ]
+
+Atom # 2, coordinates [2.00305814 0.80401436 0.        ], distance to Ag 3.0542191912872227
+Interaction force [5.93844351 7.845965   0.        ]
+
+Atom # 16, coordinates [3.99417842 3.19528522 0.        ], distance to Ag 4.135318835439638
+Interaction force [-11.34552051  -9.13381886   0.        ]
+
+Atom # 19, coordinates [2.99694186 3.99598564 0.        ], distance to Ag 4.071820688820417
+Interaction force [-5.93844351 -7.845965    0.        ]
+
+Atom # 20, coordinates [3.99560173 3.99775728 0.        ], distance to Ag 4.51622007931296
+Interaction force [-8.57314974 -4.39957221  0.        ]
+
+
+Step 118
+Atom # 1, coordinates [1.00451206 0.80230084 0.        ], distance to Ag 2.979104142836033
+Interaction force [8.64729407 4.43854421 0.        ]
+
+Atom # 2, coordinates [2.00313718 0.80411829 0.        ], distance to Ag 2.942330908842506
+Interaction force [5.98905642 7.91451406 0.        ]
+
+Atom # 16, coordinates [3.99402781 3.19516343 0.        ], distance to Ag 4.030697097313953
+Interaction force [-11.4435738   -9.21095355   0.        ]
+
+Atom # 19, coordinates [2.99686282 3.99588171 0.        ], distance to Ag 3.9669625562328834
+Interaction force [-5.98905642 -7.91451406  0.        ]
+
+Atom # 20, coordinates [3.99548794 3.99769916 0.        ], distance to Ag 4.416998186975204
+Interaction force [-8.64729407 -4.43854421  0.        ]
+
+
+Step 119
+Atom # 1, coordinates [1.0046278  0.80235996 0.        ], distance to Ag 2.8701814736176607
+Interaction force [8.72144659 4.47755202 0.        ]
+
+Atom # 2, coordinates [2.00321757 0.80422401 0.        ], distance to Ag 2.8239334633580633
+Interaction force [6.03964917 7.98309429 0.        ]
+
+Atom # 16, coordinates [3.99387463 3.19503958 0.        ], distance to Ag 3.9205100950054583
+Interaction force [-11.54163539  -9.28803287   0.        ]
+
+Atom # 19, coordinates [2.99678243 3.99577599 0.        ], distance to Ag 3.8565126751445558
+Interaction force [-6.03964917 -7.98309429  0.        ]
+
+Atom # 20, coordinates [3.9953722  3.99764004 0.        ], distance to Ag 4.312765277418125
+Interaction force [-8.72144659 -4.47755202  0.        ]
+
+
+Step 120
+Atom # 1, coordinates [1.0047455  0.80242009 0.        ], distance to Ag 2.7551548333120612
+Interaction force [8.79560745 4.51659625 0.        ]
+
+Atom # 2, coordinates [2.00329931 0.80433152 0.        ], distance to Ag 2.6980059121119537
+Interaction force [6.0902214  8.05170621 0.        ]
+
+Atom # 16, coordinates [3.99371885 3.19491364 0.        ], distance to Ag 3.803978166373432
+Interaction force [-11.63970544  -9.36505584   0.        ]
+
+Atom # 19, coordinates [2.99670069 3.99566848 0.        ], distance to Ag 3.7396854064292016
+Interaction force [-6.0902214  -8.05170621  0.        ]
+
+Atom # 20, coordinates [3.9952545  3.99757991 0.        ], distance to Ag 4.2028515216504685
+Interaction force [-8.79560745 -4.51659625  0.        ]
+
+
+Step 121
+Atom # 1, coordinates [1.00486518 0.80248124 0.        ], distance to Ag 2.633075455085839
+Interaction force [8.86977678 4.55567751 0.        ]
+
+Atom # 2, coordinates [2.00338243 0.80444084 0.        ], distance to Ag 2.563205443469124
+Interaction force [6.14077275 8.12035033 0.        ]
+
+Atom # 16, coordinates [3.99356045 3.19478558 0.        ], distance to Ag 3.680101439720396
+Interaction force [-11.73778405  -9.4420215    0.        ]
+
+Atom # 19, coordinates [2.99661757 3.99555916 0.        ], distance to Ag 3.6154725648170425
+Interaction force [-6.14077275 -8.12035033  0.        ]
+
+Atom # 20, coordinates [3.99513482 3.99751876 0.        ], distance to Ag 4.086403094999946
+Interaction force [-8.86977678 -4.55567751  0.        ]
+
+
+Step 122
+Atom # 1, coordinates [1.00498685 0.80254341 0.        ], distance to Ag 2.502687463969975
+Interaction force [8.94395472 4.59479641 0.        ]
+
+Atom # 2, coordinates [2.00346693 0.80455199 0.        ], distance to Ag 2.417706637943002
+Interaction force [6.19130286 8.18902719 0.        ]
+
+Atom # 16, coordinates [3.99339941 3.19465541 0.        ], distance to Ag 3.5475627351055237
+Interaction force [-11.83587137  -9.51892887   0.        ]
+
+Atom # 19, coordinates [2.99653307 3.99544801 0.        ], distance to Ag 3.4825449481202124
+Interaction force [-6.19130286 -8.18902719  0.        ]
+
+Atom # 20, coordinates [3.99501315 3.99745659 0.        ], distance to Ag 3.9623029966306724
+Interaction force [-8.94395472 -4.59479641  0.        ]
+
+
+Step 123
+Atom # 1, coordinates [1.00511054 0.80260661 0.        ], distance to Ag 2.3622656417152372
+Interaction force [9.01814143 4.63395358 0.        ]
+
+Atom # 2, coordinates [2.00355282 0.80466499 0.        ], distance to Ag 2.2589212175703484
+Interaction force [6.24181135 8.25773732 0.        ]
+
+Atom # 16, coordinates [3.9932357  3.19452309 0.        ], distance to Ag 3.4045676508395726
+Interaction force [-11.93396753  -9.59577697   0.        ]
+
+Atom # 19, coordinates [2.99644718 3.99533501 0.        ], distance to Ag 3.339089957677353
+Interaction force [-6.24181135 -8.25773732  0.        ]
+
+Atom # 20, coordinates [3.99488946 3.99739339 0.        ], distance to Ag 3.829041771705017
+Interaction force [-9.01814143 -4.63395358  0.        ]
+
+
+Step 124
+Atom # 1, coordinates [1.00523626 0.80267086 0.        ], distance to Ag 2.2093209273404524
+Interaction force [9.09233704 4.67314964 0.        ]
+
+Atom # 2, coordinates [2.00364012 0.80477984 0.        ], distance to Ag 2.0829679506485945
+Interaction force [6.29229787 8.32648127 0.        ]
+
+Atom # 16, coordinates [3.99306931 3.19438861 0.        ], distance to Ag 3.248562596003939
+Interaction force [-12.03207266  -9.6725648    0.        ]
+
+Atom # 19, coordinates [2.99635988 3.99522016 0.        ], distance to Ag 3.1825250701194188
+Interaction force [-6.29229787 -8.32648127  0.        ]
+
+Atom # 20, coordinates [3.99476374 3.99732914 0.        ], distance to Ag 3.684491741334362
+Interaction force [-9.09233704 -4.67314964  0.        ]
+
+
+Step 125
+Atom # 1, coordinates [1.00536403 0.80273616 0.        ], distance to Ag 2.0400091698941196
+Interaction force [9.1665417  4.71238522 0.        ]
+
+Atom # 2, coordinates [2.00372883 0.80489657 0.        ], distance to Ag 1.8835513023025527
+Interaction force [6.34276203 8.39525956 0.        ]
+
+Atom # 16, coordinates [3.99290021 3.19425196 0.        ], distance to Ag 3.07568723556113
+Interaction force [-12.1301869   -9.74929137   0.        ]
+
+Atom # 19, coordinates [2.99627117 3.99510343 0.        ], distance to Ag 3.008942597844565
+Interaction force [-6.34276203 -8.39525956  0.        ]
+
+Atom # 20, coordinates [3.99463597 3.99726384 0.        ], distance to Ag 3.5254730912677803
+Interaction force [-9.1665417  -4.71238522  0.        ]
+
+
+Step 126
+Atom # 1, coordinates [1.00549385 0.80280252 0.        ], distance to Ag 1.847776144958481
+Interaction force [9.24075556 4.75166095 0.        ]
+
+Atom # 2, coordinates [2.00381897 0.80501518 0.        ], distance to Ag 1.6491725779322937
+Interaction force [6.39320345 8.46407275 0.        ]
+
+Atom # 16, coordinates [3.99272838 3.19411312 0.        ], distance to Ag 2.879538462660074
+Interaction force [-12.22831037  -9.82595567   0.        ]
+
+Atom # 19, coordinates [2.99618103 3.99498482 0.        ], distance to Ag 2.811876137775841
+Interaction force [-6.39320345 -8.46407275  0.        ]
+
+Atom # 20, coordinates [3.99450615 3.99719748 0.        ], distance to Ag 3.34678552992104
+Interaction force [-9.24075556 -4.75166095  0.        ]
+
+
+Step 127
+Atom # 1, coordinates [1.00562576 0.80286995 0.        ], distance to Ag 1.6202039828493484
+Interaction force [9.31497877 4.79097748 0.        ]
+
+Atom # 2, coordinates [2.00391055 0.8051357  0.        ], distance to Ag 1.3545630019472592
+Interaction force [6.44362176 8.53292139 0.        ]
+
+Atom # 16, coordinates [3.9925538  3.19397206 0.        ], distance to Ag 2.647671179134973
+Interaction force [-12.32644322  -9.90255667   0.        ]
+
+Atom # 19, coordinates [2.99608945 3.9948643  0.        ], distance to Ag 2.579183084517142
+Interaction force [-6.44362176 -8.53292139  0.        ]
+
+Atom # 20, coordinates [3.99437424 3.99713005 0.        ], distance to Ag 3.1385552660295413
+Interaction force [-9.31497877 -4.79097748  0.        ]
+
+
+Step 128
+Atom # 1, coordinates [1.00575976 0.80293846 0.        ], distance to Ag 1.4823648183543698
+Interaction force [9.38921149 4.83033544 0.        ]
+
+Atom # 2, coordinates [2.00400358 0.80525814 0.        ], distance to Ag 1.0962291656699796
+Interaction force [6.49401657 8.60180603 0.        ]
+
+Atom # 16, coordinates [3.99237645 3.19382878 0.        ], distance to Ag 2.4264972837857983
+Interaction force [-12.42458558  -9.97909334   0.        ]
+
+Atom # 19, coordinates [2.99599642 3.99474186 0.        ], distance to Ag 2.3893575167656227
+Interaction force [-6.49401657 -8.60180603  0.        ]
+
+Atom # 20, coordinates [3.99424024 3.99706154 0.        ], distance to Ag 2.9498530653585315
+Interaction force [-9.38921149 -4.83033544  0.        ]
+
+
+Step 129
+Atom # 1, coordinates [1.00589587 0.80300806 0.        ], distance to Ag 105.65942228088767
+Interaction force [9.46345385 4.86973549 0.        ]
+
+Atom # 2, coordinates [2.00409807 0.80538252 0.        ], distance to Ag 105.64449761390847
+Interaction force [6.54438749 8.67072723 0.        ]
+
+Atom # 16, coordinates [3.9921963  3.19368325 0.        ], distance to Ag 106.96814213462913
+Interaction force [-12.52273759 -10.05556465   0.        ]
+
+Atom # 19, coordinates [2.99590193 3.99461748 0.        ], distance to Ag 107.41914645586283
+Interaction force [-6.54438749 -8.67072723  0.        ]
+
+Atom # 20, coordinates [3.99410413 3.99699194 0.        ], distance to Ag 107.42303011094793
+Interaction force [-9.46345385 -4.86973549  0.        ]
+
+
+Step 130
+Atom # 1, coordinates [1.00603411 0.80307875 0.        ], distance to Ag 319.67500945706655
+Interaction force [9.53770602 4.90917829 0.        ]
+
+Atom # 2, coordinates [2.00419403 0.80550885 0.        ], distance to Ag 319.6636788240505
+Interaction force [6.59473412 8.73968554 0.        ]
+
+Atom # 16, coordinates [3.99201334 3.19353546 0.        ], distance to Ag 320.9675371810502
+Interaction force [-12.62089937 -10.13196956   0.        ]
+
+Atom # 19, coordinates [2.99580597 3.99449115 0.        ], distance to Ag 321.41937451859724
+Interaction force [-6.59473412 -8.73968554  0.        ]
+
+Atom # 20, coordinates [3.99396589 3.99692125 0.        ], distance to Ag 321.41430885349797
+Interaction force [-9.53770602 -4.90917829  0.        ]
+
+
+Step 131
+Atom # 1, coordinates [1.0061745  0.80315054 0.        ], distance to Ag 641.2138177334745
+Interaction force [9.61196814 4.94866448 0.        ]
+
+Atom # 2, coordinates [2.00429147 0.80563714 0.        ], distance to Ag 641.2034884014819
+Interaction force [6.64505607 8.80868153 0.        ]
+
+Atom # 16, coordinates [3.99182754 3.19338539 0.        ], distance to Ag 642.5014459741296
+Interaction force [-12.71907108 -10.20830701   0.        ]
+
+Atom # 19, coordinates [2.99570853 3.99436286 0.        ], distance to Ag 642.9530549162115
+Interaction force [-6.64505607 -8.80868153  0.        ]
+
+Atom # 20, coordinates [3.9938255  3.99684946 0.        ], distance to Ag 642.945854452632
+Interaction force [-9.61196814 -4.94866448  0.        ]
+
+
+Step 132
+Atom # 1, coordinates [1.00631705 0.80322345 0.        ], distance to Ag 1070.2735429594381
+Interaction force [9.68624038 4.98819474 0.        ]
+
+Atom # 2, coordinates [2.00439041 0.80576741 0.        ], distance to Ag 1070.2636671053397
+Interaction force [6.69535294 8.87771578 0.        ]
+
+Atom # 16, coordinates [3.99163887 3.19323303 0.        ], distance to Ag 1071.5588393404423
+Interaction force [-12.81725284 -10.28457593   0.        ]
+
+Atom # 19, coordinates [2.99560959 3.99423259 0.        ], distance to Ag 1072.010190364341
+Interaction force [-6.69535294 -8.87771578  0.        ]
+
+Atom # 20, coordinates [3.99368295 3.99677655 0.        ], distance to Ag 1072.0021901876744
+Interaction force [-9.68624038 -4.98819474  0.        ]
+
+
+Step 133
+Atom # 1, coordinates [1.00646178 0.80329748 0.        ], distance to Ag 1606.8538918697543
+Interaction force [9.76052289 5.02776972 0.        ]
+
+Atom # 2, coordinates [2.00449085 0.80589968 0.        ], distance to Ag 1606.8442762743548
+Interaction force [6.74562433 8.94678885 0.        ]
+
+Atom # 16, coordinates [3.99144733 3.19307836 0.        ], distance to Ag 1608.1378112606621
+Interaction force [-12.9154448  -10.36077526   0.        ]
+
+Atom # 19, coordinates [2.99550915 3.99410032 0.        ], distance to Ag 1608.5889530915608
+Interaction force [-6.74562433 -8.94678885  0.        ]
+
+Atom # 20, coordinates [3.99353822 3.99670252 0.        ], distance to Ag 1608.580587116259
+Interaction force [-9.76052289 -5.02776972  0.        ]
+
+
+Step 134
+Atom # 1, coordinates [1.0066087  0.80337265 0.        ], distance to Ag 2250.954805674404
+Interaction force [9.83481583 5.06739012 0.        ]
+
+Atom # 2, coordinates [2.00459281 0.80603397 0.        ], distance to Ag 2250.9453629975774
+Interaction force [6.79586982 9.01590131 0.        ]
+
+Atom # 16, coordinates [3.99125287 3.19292135 0.        ], distance to Ag 2252.2377989291313
+Interaction force [-13.01364708 -10.4369039    0.        ]
+
+Atom # 19, coordinates [2.99540719 3.99396603 0.        ], distance to Ag 2252.6887772792143
+Interaction force [-6.79586982 -9.01590131  0.        ]
+
+Atom # 20, coordinates [3.9933913  3.99662735 0.        ], distance to Ag 2252.6802267193343
+Interaction force [-9.83481583 -5.06739012  0.        ]
+
+
+Step 135
+Atom # 1, coordinates [1.00675784 0.80344895 0.        ], distance to Ag 3002.576271601267
+Interaction force [9.90911936 5.10705659 0.        ]
+
+Atom # 2, coordinates [2.0046963  0.80617028 0.        ], distance to Ag 3002.5669559876205
+Interaction force [6.84608901 9.08505375 0.        ]
+
+Atom # 16, coordinates [3.9910555 3.192762  0.       ], distance to Ag 3003.858584514266
+Interaction force [-13.11185984 -10.51296079   0.        ]
+
+Atom # 19, coordinates [2.9953037  3.99382972 0.        ], distance to Ag 3004.3094346178777
+Interaction force [-6.84608901 -9.08505375  0.        ]
+
+Atom # 20, coordinates [3.99324216 3.99655105 0.        ], distance to Ag 3004.3007878035014
+Interaction force [-9.90911936 -5.10705659  0.        ]
+
+
+Step 136
+Atom # 1, coordinates [1.0069092 0.8035264 0.       ], distance to Ag 3861.7182880766136
+Interaction force [9.98343363 5.14676983 0.        ]
+
+Atom # 2, coordinates [2.00480132 0.80630863 0.        ], distance to Ag 3861.7090729138044
+Interaction force [6.89628147 9.15424676 0.        ]
+
+Atom # 16, coordinates [3.99085517 3.19260028 0.        ], distance to Ag 3863.0000681888937
+Interaction force [-13.2100832 -10.5889448   0.       ]
+
+Atom # 19, coordinates [2.99519868 3.99369137 0.        ], distance to Ag 3863.4508165030306
+Interaction force [-6.89628147 -9.15424676  0.        ]
+
+Atom # 20, coordinates [3.9930908 3.9964736 0.       ], distance to Ag 3863.442121327267
+Interaction force [-9.98343363 -5.14676983  0.        ]
+
+
+Step 137
+Atom # 1, coordinates [1.00706281 0.80360501 0.        ], distance to Ag 4828.380856360474
+Interaction force [10.05775881  5.18653052  0.        ]
+
+Atom # 2, coordinates [2.0049079  0.80644904 0.        ], distance to Ag 4828.371725064751
+Interaction force [6.9464468  9.22348091 0.        ]
+
+Atom # 16, coordinates [3.99065187 3.19243619 0.        ], distance to Ag 4829.662198529612
+Interaction force [-13.30831731 -10.66485485   0.        ]
+
+Atom # 19, coordinates [2.9950921  3.99355096 0.        ], distance to Ag 4830.112865071885
+Interaction force [-6.9464468  -9.22348091  0.        ]
+
+Atom # 20, coordinates [3.99293719 3.99639499 0.        ], distance to Ag 4830.1041496332755
+Interaction force [-10.05775881  -5.18653052   0.        ]
+
+
+Step 138
+Atom # 1, coordinates [1.00721868 0.80368478 0.        ], distance to Ag 5902.563978255647
+Interaction force [10.13209506  5.22633935  0.        ]
+
+Atom # 2, coordinates [2.00501604 0.80659153 0.        ], distance to Ag 5902.5549199372745
+Interaction force [6.99658456 9.29275679 0.        ]
+
+Atom # 16, coordinates [3.99044559 3.1922697  0.        ], distance to Ag 5903.84494666121
+Interaction force [-13.40656231 -10.7406898    0.        ]
+
+Atom # 19, coordinates [2.99498396 3.99340847 0.        ], distance to Ag 5904.295546821552
+Interaction force [-6.99658456 -9.29275679  0.        ]
+
+Atom # 20, coordinates [3.99278132 3.99631522 0.        ], distance to Ag 5904.286828653293
+Interaction force [-10.13209506  -5.22633935   0.        ]
+
+
+Step 139
+Atom # 1, coordinates [1.00737682 0.80376573 0.        ], distance to Ag 7084.267655464491
+Interaction force [10.20644255  5.26619702  0.        ]
+
+Atom # 2, coordinates [2.00512575 0.80673611 0.        ], distance to Ag 7084.258662686832
+Interaction force [7.04669433 9.36207502 0.        ]
+
+Atom # 16, coordinates [3.99023628 3.19210079 0.        ], distance to Ag 7085.548295256063
+Interaction force [-13.50481833 -10.81644853   0.        ]
+
+Atom # 19, coordinates [2.99487425 3.99326389 0.        ], distance to Ag 7085.998841075675
+Interaction force [-7.04669433 -9.36207502  0.        ]
+
+Atom # 20, coordinates [3.99262318 3.99623427 0.        ], distance to Ag 7085.990131683344
+Interaction force [-10.20644255  -5.26619702   0.        ]
+
+
+Step 140
+Atom # 1, coordinates [1.00753727 0.80384787 0.        ], distance to Ag 8373.491889435365
+Interaction force [10.28080143  5.30610423  0.        ]
+
+Atom # 2, coordinates [2.00523705 0.80688279 0.        ], distance to Ag 8373.48295696841
+Interaction force [7.09677567 9.43143617 0.        ]
+
+Atom # 16, coordinates [3.99002394 3.19192945 0.        ], distance to Ag 8374.77223335191
+Interaction force [-13.60308552 -10.89212992   0.        ]
+
+Atom # 19, coordinates [2.99476295 3.99311721 0.        ], distance to Ag 8375.222734412293
+Interaction force [-7.09677567 -9.43143617  0.        ]
+
+Atom # 20, coordinates [3.99246273 3.99615213 0.        ], distance to Ag 8375.214041675874
+Interaction force [-10.28080143  -5.30610423   0.        ]
+
+
+Step 141
+Atom # 1, coordinates [1.00770002 0.80393119 0.        ], distance to Ag 9770.236681357364
+Interaction force [10.35517188  5.34606168  0.        ]
+
+Atom # 2, coordinates [2.00534994 0.80703159 0.        ], distance to Ag 9770.227805442617
+Interaction force [7.14682816 9.50084085 0.        ]
+
+Atom # 16, coordinates [3.98980855 3.19175567 0.        ], distance to Ag 9771.516753708158
+Interaction force [-13.70136401 -10.96773281   0.        ]
+
+Atom # 19, coordinates [2.99465006 3.99296841 0.        ], distance to Ag 9771.967217753436
+Interaction force [-7.14682816 -9.50084085  0.        ]
+
+Atom # 20, coordinates [3.99229998 3.99606881 0.        ], distance to Ag 9771.958547276314
+Interaction force [-10.35517188  -5.34606168   0.        ]
+
+
+Step 142
+Atom # 1, coordinates [1.0078651  0.80401572 0.        ], distance to Ag 11274.502032195605
+Interaction force [10.42955407  5.38607009  0.        ]
+
+Atom # 2, coordinates [2.00546444 0.80718253 0.        ], distance to Ag 11274.493210091292
+Interaction force [7.19685135 9.57028967 0.        ]
+
+Atom # 16, coordinates [3.98959007 3.19157942 0.        ], distance to Ag 11275.781851367865
+Interaction force [-13.79965395 -11.04325605   0.        ]
+
+Atom # 19, coordinates [2.99453556 3.99281747 0.        ], distance to Ag 11276.232284746658
+Interaction force [-7.19685135 -9.57028967  0.        ]
+
+Atom # 20, coordinates [3.9921349  3.99598428 0.        ], distance to Ag 11276.22364065087
+Interaction force [-10.42955407  -5.38607009   0.        ]
+
+
+Step 143
+Atom # 1, coordinates [1.00803252 0.80410147 0.        ], distance to Ag 12886.287942732484
+Interaction force [10.50394816  5.42613017  0.        ]
+
+Atom # 2, coordinates [2.00558055 0.80733562 0.        ], distance to Ag 12886.279172420698
+Interaction force [7.2468448  9.63978323 0.        ]
+
+Atom # 16, coordinates [3.98936849 3.19140069 0.        ], distance to Ag 12887.56752283305
+Interaction force [-13.89795547 -11.11869848   0.        ]
+
+Atom # 19, coordinates [2.99441945 3.99266438 0.        ], distance to Ag 12888.017930817396
+Interaction force [-7.2468448  -9.63978323  0.        ]
+
+Atom # 20, coordinates [3.99196748 3.99589853 0.        ], distance to Ag 12888.009316231846
+Interaction force [-10.50394816  -5.42613017   0.        ]
+
+
+Step 144
+Atom # 1, coordinates [1.00820231 0.80418843 0.        ], distance to Ag 14605.594413604525
+Interaction force [10.57835432  5.46624264  0.        ]
+
+Atom # 2, coordinates [2.00569829 0.80749087 0.        ], distance to Ag 14605.58569359617
+Interaction force [7.29680806 9.70932215 0.        ]
+
+Atom # 16, coordinates [3.98914379 3.19121946 0.        ], distance to Ag 14606.873765570266
+Interaction force [-13.99626872 -11.19405892   0.        ]
+
+Atom # 19, coordinates [2.99430171 3.99250913 0.        ], distance to Ag 14607.324152589634
+Interaction force [-7.29680806 -9.70932215  0.        ]
+
+Atom # 20, coordinates [3.99179769 3.99581157 0.        ], distance to Ag 14607.315569960303
+Interaction force [-10.57835432  -5.46624264   0.        ]
+
+
+Step 145
+Atom # 1, coordinates [1.00837448 0.80427662 0.        ], distance to Ag 16432.421445332584
+Interaction force [10.65277272  5.50640822  0.        ]
+
+Atom # 2, coordinates [2.00581768 0.80764831 0.        ], distance to Ag 16432.412774533608
+Interaction force [7.34674068 9.77890704 0.        ]
+
+Atom # 16, coordinates [3.98891594 3.19103571 0.        ], distance to Ag 16433.70057770279
+Interaction force [-14.09459384 -11.26933621   0.        ]
+
+Atom # 19, coordinates [2.99418232 3.99235169 0.        ], distance to Ag 16434.1509475185
+Interaction force [-7.34674068 -9.77890704  0.        ]
+
+Atom # 20, coordinates [3.99162552 3.99572338 0.        ], distance to Ag 16434.14239881144
+Interaction force [-10.65277272  -5.50640822   0.        ]
+
+
+Step 146
+Atom # 1, coordinates [1.00854903 0.80436604 0.        ], distance to Ag 18366.769038345774
+Interaction force [10.72720354  5.54662764  0.        ]
+
+Atom # 2, coordinates [2.00593871 0.80780795 0.        ], distance to Ag 18366.760415963112
+Interaction force [7.39664221 9.84853852 0.        ]
+
+Atom # 16, coordinates [3.98868492 3.19084943 0.        ], distance to Ag 18368.04795781259
+Interaction force [-14.19293096 -11.34452914   0.        ]
+
+Atom # 19, coordinates [2.99406129 3.99219205 0.        ], distance to Ag 18368.49831364974
+Interaction force [-7.39664221 -9.84853852  0.        ]
+
+Atom # 20, coordinates [3.99145097 3.99563396 0.        ], distance to Ag 18368.489800487387
+Interaction force [-10.72720354  -5.54662764   0.        ]
+
+
+Step 147
+Atom # 1, coordinates [1.008726   0.80445672 0.        ], distance to Ag 20408.637193000173
+Interaction force [10.80164695  5.58690164  0.        ]
+
+Atom # 2, coordinates [2.00606141 0.8079698  0.        ], distance to Ag 20408.628618474107
+Interaction force [7.44651218 9.91821722 0.        ]
+
+Atom # 16, coordinates [3.98845072 3.19066061 0.        ], distance to Ag 20409.915904809273
+Interaction force [-14.29128023 -11.41963653   0.        ]
+
+Atom # 19, coordinates [2.99393859 3.9920302  0.        ], distance to Ag 20410.36624945792
+Interaction force [-7.44651218 -9.91821722  0.        ]
+
+Atom # 20, coordinates [3.991274   3.99554328 0.        ], distance to Ag 20410.35777321268
+Interaction force [-10.80164695  -5.58690164   0.        ]
+
+
+Step 148
+Atom # 1, coordinates [1.0089054  0.80454865 0.        ], distance to Ag 22558.0259095934
+Interaction force [10.87610312  5.62723096  0.        ]
+
+Atom # 2, coordinates [2.00618578 0.80813388 0.        ], distance to Ag 22558.017382547987
+Interaction force [7.49635013 9.98794376 0.        ]
+
+Atom # 16, coordinates [3.9882133  3.19046921 0.        ], distance to Ag 22559.304417841187
+Interaction force [-14.38964179 -11.49465715   0.        ]
+
+Atom # 19, coordinates [2.99381422 3.99186612 0.        ], distance to Ag 22559.754753734873
+Interaction force [-7.49635013 -9.98794376  0.        ]
+
+Atom # 20, coordinates [3.9910946  3.99545135 0.        ], distance to Ag 22559.746315594704
+Interaction force [-10.87610312  -5.62723096   0.        ]
+
+
+Step 149
+Atom # 1, coordinates [1.00908724 0.80464185 0.        ], distance to Ag 24814.935188375974
+Interaction force [10.95057224  5.66761632  0.        ]
+
+Atom # 2, coordinates [2.00631183 0.8083002  0.        ], distance to Ag 24814.92670858204
+Interaction force [ 7.54615559 10.05771876  0.        ]
+
+Atom # 16, coordinates [3.98797265 3.19027524 0.        ], distance to Ag 24816.213496233697
+Interaction force [-14.48801578 -11.5695898    0.        ]
+
+Atom # 19, coordinates [2.99368817 3.9916998  0.        ], distance to Ag 24816.66382551116
+Interaction force [ -7.54615559 -10.05771876   0.        ]
+
+Atom # 20, coordinates [3.99091276 3.99535815 0.        ], distance to Ag 24816.655426526293
+Interaction force [-10.95057224  -5.66761632   0.        ]
+
+
+Step 150
+Atom # 1, coordinates [1.00927154 0.80473632 0.        ], distance to Ag 27179.365029560213
+Interaction force [11.02505447  5.70805849  0.        ]
+
+Atom # 2, coordinates [2.00643958 0.80846879 0.        ], distance to Ag 27179.356596907353
+Interaction force [ 7.5959281  10.12754287  0.        ]
+
+Atom # 16, coordinates [3.98772874 3.19007867 0.        ], distance to Ag 27180.643139445554
+Interaction force [-14.58640234 -11.64443325   0.        ]
+
+Atom # 19, coordinates [2.99356042 3.99153121 0.        ], distance to Ag 27181.0934639997
+Interaction force [ -7.5959281  -10.12754287   0.        ]
+
+Atom # 20, coordinates [3.99072846 3.99526368 0.        ], distance to Ag 27181.085105116497
+Interaction force [-11.02505447  -5.70805849   0.        ]
+
+
+Step 151
+Atom # 1, coordinates [1.00945832 0.80483207 0.        ], distance to Ag 29651.315433327272
+Interaction force [11.09955     5.74855822  0.        ]
+
+Atom # 2, coordinates [2.00656903 0.80863965 0.        ], distance to Ag 29651.3070478023
+Interaction force [ 7.64566717 10.19741671  0.        ]
+
+Atom # 16, coordinates [3.98748155 3.18987948 0.        ], distance to Ag 29652.593347037415
+Interaction force [-14.6848016  -11.71918626   0.        ]
+
+Atom # 19, coordinates [2.99343097 3.99136035 0.        ], distance to Ag 29653.04366855459
+Interaction force [ -7.64566717 -10.19741671   0.        ]
+
+Atom # 20, coordinates [3.99054168 3.99516793 0.        ], distance to Ag 29653.03535064042
+Interaction force [-11.09955     -5.74855822   0.        ]
+
+
+Step 152
+Atom # 1, coordinates [1.00964759 0.80492911 0.        ], distance to Ag 32230.78639983266
+Interaction force [11.174059    5.78911625  0.        ]
+
+Atom # 2, coordinates [2.00670021 0.8088128  0.        ], distance to Ag 32230.77806150286
+Interaction force [ 7.69537232 10.26734093  0.        ]
+
+Atom # 16, coordinates [3.98723107 3.18967766 0.        ], distance to Ag 32232.06411864885
+Interaction force [-14.78321372 -11.79384758   0.        ]
+
+Atom # 19, coordinates [2.99329979 3.9911872  0.        ], distance to Ag 32232.5144386406
+Interaction force [ -7.69537232 -10.26734093   0.        ]
+
+Atom # 20, coordinates [3.99035241 3.99507089 0.        ], distance to Ag 32232.50616250233
+Interaction force [-11.174059    -5.78911625   0.        ]
+
+
+Step 153
+Atom # 1, coordinates [1.00983938 0.80502746 0.        ], distance to Ag 34917.77792921072
+Interaction force [11.24858166  5.82973335  0.        ]
+
+Atom # 2, coordinates [2.00683311 0.80898826 0.        ], distance to Ag 34917.76963821064
+Interaction force [ 7.74504307 10.33731617  0.        ]
+
+Atom # 16, coordinates [3.98697726 3.18947319 0.        ], distance to Ag 34919.05545398122
+Interaction force [-14.88163883 -11.86841596   0.        ]
+
+Atom # 19, coordinates [2.99316689 3.99101174 0.        ], distance to Ag 34919.50577381021
+Interaction force [ -7.74504307 -10.33731617   0.        ]
+
+Atom # 20, coordinates [3.99016062 3.99497254 0.        ], distance to Ag 34919.49754020814
+Interaction force [-11.24858166  -5.82973335   0.        ]
+
+
+Step 154
+Atom # 1, coordinates [1.01003369 0.80512712 0.        ], distance to Ag 37712.29002157813
+Interaction force [11.32311817  5.87041028  0.        ]
+
+Atom # 2, coordinates [2.00696775 0.80916605 0.        ], distance to Ag 37712.28177809911
+Interaction force [ 7.79467893 10.40734307  0.        ]
+
+Atom # 16, coordinates [3.98672011 3.18926605 0.        ], distance to Ag 37713.567352784834
+Interaction force [-14.98007707 -11.94289014   0.        ]
+
+Atom # 19, coordinates [2.99303225 3.99083395 0.        ], distance to Ag 37714.01767368613
+Interaction force [ -7.79467893 -10.40734307   0.        ]
+
+Atom # 20, coordinates [3.98996631 3.99487288 0.        ], distance to Ag 37714.00948334459
+Interaction force [-11.32311817  -5.87041028   0.        ]
+
+
+Step 155
+Atom # 1, coordinates [1.01023054 0.80522809 0.        ], distance to Ag 40614.32267703682
+Interaction force [11.39766869  5.91114782  0.        ]
+
+Atom # 2, coordinates [2.00710414 0.80934617 0.        ], distance to Ag 40614.31448131855
+Interaction force [ 7.84427941 10.47742229  0.        ]
+
+Atom # 16, coordinates [3.9864596  3.18905623 0.        ], distance to Ag 40615.599814849105
+Interaction force [-15.07852859 -12.01726885   0.        ]
+
+Atom # 19, coordinates [2.99289586 3.99065383 0.        ], distance to Ag 40616.050137947845
+Interaction force [ -7.84427941 -10.47742229   0.        ]
+
+Atom # 20, coordinates [3.98976946 3.99477191 0.        ], distance to Ag 40616.04199156333
+Interaction force [-11.39766869  -5.91114782   0.        ]
+
+
+Step 156
+Atom # 1, coordinates [1.01042996 0.8053304  0.        ], distance to Ag 43623.875895676305
+Interaction force [11.47223343  5.95194674  0.        ]
+
+Atom # 2, coordinates [2.00724229 0.80952865 0.        ], distance to Ag 43623.86774799999
+Interaction force [ 7.893844   10.54755448  0.        ]
+
+Atom # 16, coordinates [3.9861957  3.18884371 0.        ], distance to Ag 43625.15283999503
+Interaction force [-15.17699351 -12.09155079   0.        ]
+
+Atom # 19, coordinates [2.99275771 3.99047135 0.        ], distance to Ag 43625.60316632109
+Interaction force [ -7.893844   -10.54755448   0.        ]
+
+Atom # 20, coordinates [3.98957004 3.9946696  0.        ], distance to Ag 43625.59506456859
+Interaction force [-11.47223343  -5.95194674   0.        ]
+
+
+Step 157
+Atom # 1, coordinates [1.01063195 0.80543404 0.        ], distance to Ag 46740.949677575576
+Interaction force [11.54681255  5.99280781  0.        ]
+
+Atom # 2, coordinates [2.00738222 0.80971349 0.        ], distance to Ag 46740.94157825836
+Interaction force [ 7.94337221 10.61774028  0.        ]
+
+Atom # 16, coordinates [3.98592839 3.18862848 0.        ], distance to Ag 46742.22642806929
+Interaction force [-15.27547199 -12.16573468   0.        ]
+
+Atom # 19, coordinates [2.99261778 3.99028651 0.        ], distance to Ag 46742.67675856965
+Interaction force [ -7.94337221 -10.61774028   0.        ]
+
+Atom # 20, coordinates [3.98936805 3.99456596 0.        ], distance to Ag 46742.66870210755
+Interaction force [-11.54681255  -5.99280781   0.        ]
+
+
+Step 158
+Atom # 1, coordinates [1.01083654 0.80553903 0.        ], distance to Ag 49965.54402280469
+Interaction force [11.62140626  6.03373181  0.        ]
+
+Atom # 2, coordinates [2.00752393 0.80990072 0.        ], distance to Ag 49965.53597219505
+Interaction force [ 7.99286353 10.68798037  0.        ]
+
+Atom # 16, coordinates [3.98565764 3.18841052 0.        ], distance to Ag 49966.820578939616
+Interaction force [-15.37396416 -12.23981922   0.        ]
+
+Atom # 19, coordinates [2.99247607 3.99009928 0.        ], distance to Ag 49967.27091448874
+Interaction force [ -7.99286353 -10.68798037   0.        ]
+
+Atom # 20, coordinates [3.98916346 3.99446097 0.        ], distance to Ag 49967.26290396271
+Interaction force [-11.62140626  -6.03373181   0.        ]
+
+
+Step 159
+Atom # 1, coordinates [1.01104373 0.80564537 0.        ], distance to Ag 53297.658931426035
+Interaction force [11.69601474  6.07471954  0.        ]
+
+Atom # 2, coordinates [2.00766744 0.81009035 0.        ], distance to Ag 53297.65092990001
+Interaction force [ 8.04231744 10.7582754   0.        ]
+
+Atom # 16, coordinates [3.98538345 3.18818981 0.        ], distance to Ag 53298.93529249114
+Interaction force [-15.47247016 -12.31380309   0.        ]
+
+Atom # 19, coordinates [2.99233256 3.98990965 0.        ], distance to Ag 53299.38563389984
+Interaction force [ -8.04231744 -10.7582754    0.        ]
+
+Atom # 20, coordinates [3.98895627 3.99435463 0.        ], distance to Ag 53299.37766994591
+Interaction force [-11.69601474  -6.07471954   0.        ]
+
+
+Step 160
+Atom # 1, coordinates [1.01125356 0.80575308 0.        ], distance to Ag 56737.29440349549
+Interaction force [11.77063818  6.11577179  0.        ]
+
+Atom # 2, coordinates [2.00781275 0.8102824  0.        ], distance to Ag 56737.28645145343
+Interaction force [ 8.09173343 10.82862604  0.        ]
+
+Atom # 16, coordinates [3.98510577 3.18796633 0.        ], distance to Ag 56738.57056862349
+Interaction force [-15.57099013 -12.38768497   0.        ]
+
+Atom # 19, coordinates [2.99218725 3.9897176  0.        ], distance to Ag 56739.02091664638
+Interaction force [ -8.09173343 -10.82862604   0.        ]
+
+Atom # 20, coordinates [3.98874644 3.99424692 0.        ], distance to Ag 56739.01299989341
+Interaction force [-11.77063818  -6.11577179   0.        ]
+
+
+Step 161
+Atom # 1, coordinates [1.01146602 0.80586216 0.        ], distance to Ag 60284.45043906326
+Interaction force [11.84527677  6.15688935  0.        ]
+
+Atom # 2, coordinates [2.00795988 0.81047689 0.        ], distance to Ag 60284.44253692721
+Interaction force [ 8.14111098 10.89903296  0.        ]
+
+Atom # 16, coordinates [3.98482461 3.18774007 0.        ], distance to Ag 60285.72640724836
+Interaction force [-15.6695242  -12.46146353   0.        ]
+
+Atom # 19, coordinates [2.99204012 3.98952311 0.        ], distance to Ag 60286.17676259039
+Interaction force [ -8.14111098 -10.89903296   0.        ]
+
+Atom # 20, coordinates [3.98853398 3.99413784 0.        ], distance to Ag 60286.16889366201
+Interaction force [-11.84527677  -6.15688935   0.        ]
+
+
+Step 162
+Atom # 1, coordinates [1.01168115 0.80597263 0.        ], distance to Ag 63939.12703817462
+Interaction force [11.9199307   6.19807301  0.        ]
+
+Atom # 2, coordinates [2.00810884 0.81067382 0.        ], distance to Ag 63939.11918638605
+Interaction force [ 8.19044957 10.96949682  0.        ]
+
+Atom # 16, coordinates [3.98453992 3.18751101 0.        ], distance to Ag 63940.402808287654
+Interaction force [-15.76807252 -12.53513744   0.        ]
+
+Atom # 19, coordinates [2.99189116 3.98932618 0.        ], distance to Ag 63940.85317160959
+Interaction force [ -8.19044957 -10.96949682   0.        ]
+
+Atom # 20, coordinates [3.98831885 3.99402737 0.        ], distance to Ag 63940.84535112581
+Interaction force [-11.9199307   -6.19807301   0.        ]
+
+
+Step 163
+Atom # 1, coordinates [1.01189896 0.80608449 0.        ], distance to Ag 67701.32420087067
+Interaction force [11.99460016  6.2393236   0.        ]
+
+Atom # 2, coordinates [2.00825963 0.81087321 0.        ], distance to Ag 67701.31639988854
+Interaction force [ 8.23974866 11.0400183   0.        ]
+
+Atom # 16, coordinates [3.98425169 3.18727914 0.        ], distance to Ag 67702.59977167188
+Interaction force [-15.86663522 -12.60870533   0.        ]
+
+Atom # 19, coordinates [2.99174037 3.98912679 0.        ], distance to Ag 67703.05014359516
+Interaction force [ -8.23974866 -11.0400183    0.        ]
+
+Atom # 20, coordinates [3.98810104 3.99391551 0.        ], distance to Ag 67703.04237217364
+Interaction force [-11.99460016  -6.2393236    0.        ]
+
+
+Step 164
+Atom # 1, coordinates [1.01211946 0.80619775 0.        ], distance to Ag 71571.04192718875
+Interaction force [12.06928536  6.2806419   0.        ]
+
+Atom # 2, coordinates [2.00841228 0.81107508 0.        ], distance to Ag 71571.0341774879
+Interaction force [ 8.28900772 11.11059808  0.        ]
+
+Atom # 16, coordinates [3.98395989 3.18704444 0.        ], distance to Ag 71572.31729733894
+Interaction force [-15.96521245 -12.68216585   0.        ]
+
+Atom # 19, coordinates [2.99158772 3.98892492 0.        ], distance to Ag 71572.76767844976
+Interaction force [ -8.28900772 -11.11059808   0.        ]
+
+Atom # 20, coordinates [3.98788054 3.99380225 0.        ], distance to Ag 71572.75995670687
+Interaction force [-12.06928536  -6.2806419    0.        ]
+
+
+Step 165
+Atom # 1, coordinates [1.01234267 0.80631242 0.        ], distance to Ag 75548.28021716297
+Interaction force [12.14398648  6.32202875  0.        ]
+
+Atom # 2, coordinates [2.00856678 0.81127945 0.        ], distance to Ag 75548.2725192327
+Interaction force [ 8.33822621 11.18123684  0.        ]
+
+Atom # 16, coordinates [3.98366452 3.18680689 0.        ], distance to Ag 75549.55538523295
+Interaction force [-16.06380433 -12.75551762   0.        ]
+
+Atom # 19, coordinates [2.99143322 3.98872055 0.        ], distance to Ag 75550.00577608595
+Interaction force [ -8.33822621 -11.18123684   0.        ]
+
+Atom # 20, coordinates [3.98765733 3.99368758 0.        ], distance to Ag 75549.9981046376
+Interaction force [-12.14398648  -6.32202875   0.        ]
+
+
+Step 166
+Atom # 1, coordinates [1.0125686  0.80642852 0.        ], distance to Ag 79633.03907082458
+Interaction force [12.21870373  6.36348494  0.        ]
+
+Atom # 2, coordinates [2.00872316 0.81148633 0.        ], distance to Ag 79633.03142516749
+Interaction force [ 8.38740359 11.25193527  0.        ]
+
+Atom # 16, coordinates [3.98336553 3.18656648 0.        ], distance to Ag 79634.31403530344
+Interaction force [-16.162411   -12.82875928   0.        ]
+
+Atom # 19, coordinates [2.99127684 3.98851367 0.        ], distance to Ag 79634.76443642486
+Interaction force [ -8.38740359 -11.25193527   0.        ]
+
+Atom # 20, coordinates [3.9874314  3.99357148 0.        ], distance to Ag 79634.75681588725
+Interaction force [-12.21870373  -6.36348494   0.        ]
+
+
+Step 167
+Atom # 1, coordinates [1.01279728 0.80654604 0.        ], distance to Ag 83825.31848820235
+Interaction force [12.2934373   6.40501131  0.        ]
+
+Atom # 2, coordinates [2.00888143 0.81169574 0.        ], distance to Ag 83825.31089533317
+Interaction force [ 8.43653931 11.32269404  0.        ]
+
+Atom # 16, coordinates [3.98306291 3.18632319 0.        ], distance to Ag 83826.59324750457
+Interaction force [-16.26103261 -12.90188943   0.        ]
+
+Atom # 19, coordinates [2.99111857 3.98830426 0.        ], distance to Ag 83827.04365939501
+Interaction force [ -8.43653931 -11.32269404   0.        ]
+
+Atom # 20, coordinates [3.98720272 3.99345396 0.        ], distance to Ag 83827.03609038518
+Interaction force [-12.2934373   -6.40501131   0.        ]
+
+
+Step 168
+Atom # 1, coordinates [1.01302872 0.806665   0.        ], distance to Ag 88125.11846932281
+Interaction force [12.36818739  6.44660868  0.        ]
+
+Atom # 2, coordinates [2.00904158 0.81190769 0.        ], distance to Ag 88125.11092976764
+Interaction force [ 8.48563281 11.39351385  0.        ]
+
+Atom # 16, coordinates [3.98275665 3.18607701 0.        ], distance to Ag 88126.39302179456
+Interaction force [-16.35966928 -12.97490666   0.        ]
+
+Atom # 19, coordinates [2.99095842 3.98809231 0.        ], distance to Ag 88126.84344493144
+Interaction force [ -8.48563281 -11.39351385   0.        ]
+
+Atom # 20, coordinates [3.98697128 3.993335   0.        ], distance to Ag 88126.83592806775
+Interaction force [-12.36818739  -6.44660868   0.        ]
+
+
+Step 169
+Atom # 1, coordinates [1.01326294 0.80678541 0.        ], distance to Ag 92532.43901421055
+Interaction force [12.4429542   6.48827789  0.        ]
+
+Atom # 2, coordinates [2.00920364 0.8121222  0.        ], distance to Ag 92532.43152850599
+Interaction force [ 8.53468354 11.46439538  0.        ]
+
+Atom # 16, coordinates [3.98244671 3.18582791 0.        ], distance to Ag 92533.71335813514
+Interaction force [-16.45832114 -13.04780957   0.        ]
+
+Atom # 19, coordinates [2.99079636 3.9878778  0.        ], distance to Ag 92534.16379297481
+Interaction force [ -8.53468354 -11.46439538   0.        ]
+
+Atom # 20, coordinates [3.98673706 3.99321459 0.        ], distance to Ag 92534.15632887735
+Interaction force [-12.4429542   -6.48827789   0.        ]
+
+
+Step 170
+Atom # 1, coordinates [1.01349995 0.80690728 0.        ], distance to Ag 97047.28012288836
+Interaction force [12.51773793  6.53001975  0.        ]
+
+Atom # 2, coordinates [2.00936762 0.81233929 0.        ], distance to Ag 97047.27269158083
+Interaction force [ 8.58369093 11.53533934  0.        ]
+
+Atom # 16, coordinates [3.98213307 3.18557588 0.        ], distance to Ag 97048.55425649103
+Interaction force [-16.55698834 -13.12059675   0.        ]
+
+Atom # 19, coordinates [2.99063238 3.98766071 0.        ], distance to Ag 97049.00470347077
+Interaction force [ -8.58369093 -11.53533934   0.        ]
+
+Atom # 20, coordinates [3.98650005 3.99309272 0.        ], distance to Ag 97048.99729276166
+Interaction force [-12.51773793  -6.53001975   0.        ]
+
+
+Step 171
+Atom # 1, coordinates [1.01373978 0.80703061 0.        ], distance to Ag 101669.64179537755
+Interaction force [12.59253879  6.57183512  0.        ]
+
+Atom # 2, coordinates [2.00953352 0.81255896 0.        ], distance to Ag 101669.63441902267
+Interaction force [ 8.63265442 11.60634642  0.        ]
+
+Atom # 16, coordinates [3.98181572 3.18532091 0.        ], distance to Ag 101670.91571682968
+Interaction force [-16.65567101 -13.19326675   0.        ]
+
+Atom # 19, coordinates [2.99046648 3.98744104 0.        ], distance to Ag 101671.36617636934
+Interaction force [ -8.63265442 -11.60634642   0.        ]
+
+Atom # 20, coordinates [3.98626022 3.99296939 0.        ], distance to Ag 101671.35881967303
+Interaction force [-12.59253879  -6.57183512   0.        ]
+
+
+Step 172
+Atom # 1, coordinates [1.01398243 0.80715542 0.        ], distance to Ag 106399.524031698
+Interaction force [12.66735698  6.61372484  0.        ]
+
+Atom # 2, coordinates [2.00970136 0.81278124 0.        ], distance to Ag 106399.51671086009
+Interaction force [ 8.68157343 11.67741732  0.        ]
+
+Atom # 16, coordinates [3.98149463 3.18506297 0.        ], distance to Ag 106400.79773912093
+Interaction force [-16.75436927 -13.26581814   0.        ]
+
+Atom # 19, coordinates [2.99029864 3.98721876 0.        ], distance to Ag 106401.24821162438
+Interaction force [ -8.68157343 -11.67741732   0.        ]
+
+Atom # 20, coordinates [3.98601757 3.99284458 0.        ], distance to Ag 106401.2409095679
+Interaction force [-12.66735698  -6.61372484   0.        ]
+
+
+Step 173
+Atom # 1, coordinates [1.01422792 0.80728171 0.        ], distance to Ag 111236.92683186838
+Interaction force [12.74219271  6.65568975  0.        ]
+
+Atom # 2, coordinates [2.00987115 0.81300615 0.        ], distance to Ag 111236.91956711991
+Interaction force [ 8.73044738 11.74855274  0.        ]
+
+Atom # 16, coordinates [3.98116977 3.18480206 0.        ], distance to Ag 111238.20032333663
+Interaction force [-16.85308326 -13.33824947   0.        ]
+
+Atom # 19, coordinates [2.99012885 3.98699385 0.        ], distance to Ag 111238.6508091932
+Interaction force [ -8.73044738 -11.74855274   0.        ]
+
+Atom # 20, coordinates [3.98577208 3.99271829 0.        ], distance to Ag 111238.64356240632
+Interaction force [-12.74219271  -6.65568975   0.        ]
+
+
+Step 174
+Atom # 1, coordinates [1.01447628 0.8074095  0.        ], distance to Ag 116181.85019590618
+Interaction force [12.81704619  6.6977307   0.        ]
+
+Atom # 2, coordinates [2.0100429  0.81323369 0.        ], distance to Ag 116181.8429878275
+Interaction force [ 8.77927569 11.81975339  0.        ]
+
+Atom # 16, coordinates [3.98084113 3.18453816 0.        ], distance to Ag 116183.1234694505
+Interaction force [-16.9518131  -13.41055928   0.        ]
+
+Atom # 19, coordinates [2.9899571  3.98676631 0.        ], distance to Ag 116183.57396903614
+Interaction force [ -8.77927569 -11.81975339   0.        ]
+
+Atom # 20, coordinates [3.98552372 3.9925905  0.        ], distance to Ag 116183.56677815151
+Interaction force [-12.81704619  -6.6977307    0.        ]
+
+
+Step 175
+Atom # 1, coordinates [1.01472751 0.8075388  0.        ], distance to Ag 121234.29412382796
+Interaction force [12.89191762  6.73984854  0.        ]
+
+Atom # 2, coordinates [2.01021662 0.81346389 0.        ], distance to Ag 121234.28697300676
+Interaction force [ 8.82805778 11.89101998  0.        ]
+
+Atom # 16, coordinates [3.98050869 3.18427125 0.        ], distance to Ag 121235.56717743787
+Interaction force [-17.05055894 -13.4827461    0.        ]
+
+Atom # 19, coordinates [2.98978338 3.98653611 0.        ], distance to Ag 121236.0176911162
+Interaction force [ -8.82805778 -11.89101998   0.        ]
+
+Atom # 20, coordinates [3.98527249 3.9924612  0.        ], distance to Ag 121236.01055676956
+Interaction force [-12.89191762  -6.73984854   0.        ]
+
+
+Step 176
+Atom # 1, coordinates [1.01498163 0.80766961 0.        ], distance to Ag 126394.25861564939
+Interaction force [12.9668072   6.78204415  0.        ]
+
+Atom # 2, coordinates [2.01039232 0.81369675 0.        ], distance to Ag 126394.25152268044
+Interaction force [ 8.87679304 11.96235322  0.        ]
+
+Atom # 16, coordinates [3.98017242 3.18400131 0.        ], distance to Ag 126395.5314472756
+Interaction force [-17.1493209  -13.55480845   0.        ]
+
+Atom # 19, coordinates [2.98960768 3.98630325 0.        ], distance to Ag 126395.9819753989
+Interaction force [ -8.87679304 -11.96235322   0.        ]
+
+Atom # 20, coordinates [3.98501837 3.99233039 0.        ], distance to Ag 126395.97489822909
+Interaction force [-12.9668072   -6.78204415   0.        ]
+
+
+Step 177
+Atom # 1, coordinates [1.01523867 0.80780194 0.        ], distance to Ag 131661.74367138525
+Interaction force [13.04171516  6.82431837  0.        ]
+
+Atom # 2, coordinates [2.01057002 0.8139323  0.        ], distance to Ag 131661.73663687013
+Interaction force [ 8.92548089 12.03375381  0.        ]
+
+Atom # 16, coordinates [3.9798323  3.18372833 0.        ], distance to Ag 131663.01627894174
+Interaction force [-17.2480991  -13.62674483   0.        ]
+
+Atom # 19, coordinates [2.98942998 3.9860677  0.        ], distance to Ag 131663.46682185182
+Interaction force [ -8.92548089 -12.03375381   0.        ]
+
+Atom # 20, coordinates [3.98476133 3.99219806 0.        ], distance to Ag 131663.45980250096
+Interaction force [-13.04171516  -6.82431837   0.        ]
+
+
+Step 178
+Atom # 1, coordinates [1.01549864 0.8079358  0.        ], distance to Ag 137036.74929104967
+Interaction force [13.11664171  6.86667208  0.        ]
+
+Atom # 2, coordinates [2.01074971 0.81417056 0.        ], distance to Ag 137036.74231559644
+Interaction force [ 8.97412071 12.10522249  0.        ]
+
+Atom # 16, coordinates [3.97948831 3.18345229 0.        ], distance to Ag 137038.02167241555
+Interaction force [-17.34689367 -13.69855375   0.        ]
+
+Atom # 19, coordinates [2.98925029 3.98582944 0.        ], distance to Ag 137038.47223044452
+Interaction force [ -8.97412071 -12.10522249   0.        ]
+
+Atom # 20, coordinates [3.98450136 3.9920642  0.        ], distance to Ag 137038.46526955807
+Interaction force [-13.11664171  -6.86667208   0.        ]
+
+
+Step 179
+Atom # 1, coordinates [1.01576155 0.80807121 0.        ], distance to Ag 142519.27547465602
+Interaction force [13.19158705  6.90910615  0.        ]
+
+Atom # 2, coordinates [2.01093142 0.81441153 0.        ], distance to Ag 142519.26855887906
+Interaction force [ 9.0227119  12.17675996  0.        ]
+
+Atom # 16, coordinates [3.97914042 3.18317318 0.        ], distance to Ag 142520.54762767733
+Interaction force [-17.44570474 -13.77023369   0.        ]
+
+Atom # 19, coordinates [2.98906858 3.98558847 0.        ], distance to Ag 142520.99820114832
+Interaction force [ -9.0227119  -12.17675996   0.        ]
+
+Atom # 20, coordinates [3.98423845 3.99192879 0.        ], distance to Ag 142520.99129937513
+Interaction force [-13.19158705  -6.90910615   0.        ]
+
+
+Step 180
+Atom # 1, coordinates [1.01602742 0.80820816 0.        ], distance to Ag 148109.32222221713
+Interaction force [13.2665514   6.95162145  0.        ]
+
+Atom # 2, coordinates [2.01111516 0.81465523 0.        ], distance to Ag 148109.31536673685
+Interaction force [ 9.07125385 12.24836694  0.        ]
+
+Atom # 16, coordinates [3.97878862 3.18289098 0.        ], distance to Ag 148110.59414470827
+Interaction force [-17.54453243 -13.84178313   0.        ]
+
+Atom # 19, coordinates [2.98888484 3.98534477 0.        ], distance to Ag 148111.04473393605
+Interaction force [ -9.07125385 -12.24836694   0.        ]
+
+Atom # 20, coordinates [3.98397258 3.99179184 0.        ], distance to Ag 148111.03789192848
+Interaction force [-13.2665514   -6.95162145   0.        ]
+
+
+Step 181
+Atom # 1, coordinates [1.01629626 0.80834668 0.        ], distance to Ag 153806.8895337453
+Interaction force [13.34153498  6.99421887  0.        ]
+
+Atom # 2, coordinates [2.01130093 0.81490169 0.        ], distance to Ag 153806.88273918797
+Interaction force [ 9.11974592 12.32004416  0.        ]
+
+Atom # 16, coordinates [3.97843288 3.18260568 0.        ], distance to Ag 153808.16122349055
+Interaction force [-17.64337687 -13.91320054   0.        ]
+
+Atom # 19, coordinates [2.98869907 3.98509831 0.        ], distance to Ag 153808.61182878207
+Interaction force [ -9.11974592 -12.32004416   0.        ]
+
+Atom # 20, coordinates [3.98370374 3.99165332 0.        ], distance to Ag 153808.6050471959
+Interaction force [-13.34153498  -6.99421887   0.        ]
+
+
+Step 182
+Atom # 1, coordinates [1.01656811 0.80848677 0.        ], distance to Ag 159611.9774092523
+Interaction force [13.41653801  7.03689928  0.        ]
+
+Atom # 2, coordinates [2.01148874 0.81515091 0.        ], distance to Ag 159611.97067624988
+Interaction force [ 9.16818751 12.39179235  0.        ]
+
+Atom # 16, coordinates [3.97807318 3.18231725 0.        ], distance to Ag 159613.2488640069
+Interaction force [-17.74223818 -13.98448438   0.        ]
+
+Atom # 19, coordinates [2.98851126 3.98484909 0.        ], distance to Ag 159613.69948566193
+Interaction force [ -9.16818751 -12.39179235   0.        ]
+
+Atom # 20, coordinates [3.98343189 3.99151323 0.        ], distance to Ag 159613.69276515648
+Interaction force [-13.41653801  -7.03689928   0.        ]
+
+
+Step 183
+Atom # 1, coordinates [1.01684296 0.80862844 0.        ], distance to Ag 165524.58584874938
+Interaction force [13.49156069  7.07966357  0.        ]
+
+Atom # 2, coordinates [2.01167862 0.81540291 0.        ], distance to Ag 165524.5791779394
+Interaction force [ 9.21657798 12.46361223  0.        ]
+
+Atom # 16, coordinates [3.9777095  3.18202569 0.        ], distance to Ag 165525.8570662409
+Interaction force [-17.84111648 -14.05563309   0.        ]
+
+Atom # 19, coordinates [2.98832138 3.98459709 0.        ], distance to Ag 165526.3077045523
+Interaction force [ -9.21657798 -12.46361223   0.        ]
+
+Atom # 20, coordinates [3.98315704 3.99137156 0.        ], distance to Ag 165526.30104579058
+Interaction force [-13.49156069  -7.07966357   0.        ]
+
+
+Step 184
+Atom # 1, coordinates [1.01712084 0.8087717  0.        ], distance to Ag 171544.71485224747
+Interaction force [13.56660326  7.12251264  0.        ]
+
+Atom # 2, coordinates [2.01187056 0.81565771 0.        ], distance to Ag 171544.70824427283
+Interaction force [ 9.26491668 12.53550454  0.        ]
+
+Atom # 16, coordinates [3.97734181 3.18173097 0.        ], distance to Ag 171545.98583017668
+Interaction force [-17.94001188 -14.1266451    0.        ]
+
+Atom # 19, coordinates [2.98812944 3.98434229 0.        ], distance to Ag 171546.4364854311
+Interaction force [ -9.26491668 -12.53550454   0.        ]
+
+Atom # 20, coordinates [3.98287916 3.9912283  0.        ], distance to Ag 171546.4298890796
+Interaction force [-13.56660326  -7.12251264   0.        ]
+
+
+Step 185
+Atom # 1, coordinates [1.01740177 0.80891656 0.        ], distance to Ag 177672.36441975713
+Interaction force [13.64166593  7.16544738  0.        ]
+
+Atom # 2, coordinates [2.01206458 0.81591532 0.        ], distance to Ag 177672.35787526597
+Interaction force [ 9.31320299 12.60746999  0.        ]
+
+Atom # 16, coordinates [3.9769701  3.18143308 0.        ], distance to Ag 177673.63515579898
+Interaction force [-18.03892451 -14.19751885   0.        ]
+
+Atom # 19, coordinates [2.98793542 3.98408468 0.        ], distance to Ag 177674.08582827702
+Interaction force [ -9.31320299 -12.60746999   0.        ]
+
+Atom # 20, coordinates [3.98259823 3.99108344 0.        ], distance to Ag 177674.07929500585
+Interaction force [-13.64166593  -7.16544738   0.        ]
+
+
+Step 186
+Atom # 1, coordinates [1.01768575 0.80906303 0.        ], distance to Ag 183907.53455128844
+Interaction force [13.71674892  7.20846868  0.        ]
+
+Atom # 2, coordinates [2.01226069 0.81617577 0.        ], distance to Ag 183907.52807093406
+Interaction force [ 9.36143625 12.67950934  0.        ]
+
+Atom # 16, coordinates [3.97659434 3.18113201 0.        ], distance to Ag 183908.80504309302
+Interaction force [-18.13785449 -14.26825274   0.        ]
+
+Atom # 19, coordinates [2.98773931 3.98382423 0.        ], distance to Ag 183909.25573306967
+Interaction force [ -9.36143625 -12.67950934   0.        ]
+
+Atom # 20, coordinates [3.98231425 3.99093697 0.        ], distance to Ag 183909.2492635527
+Interaction force [-13.71674892  -7.20846868   0.        ]
+
+
+Step 187
+Atom # 1, coordinates [1.01797282 0.80921111 0.        ], distance to Ag 190250.2252468513
+Interaction force [13.79185245  7.25157746  0.        ]
+
+Atom # 2, coordinates [2.0124589  0.81643906 0.        ], distance to Ag 190250.21883129203
+Interaction force [ 9.40961581 12.75162332  0.        ]
+
+Atom # 16, coordinates [3.97621451 3.18082774 0.        ], distance to Ag 190251.49549204455
+Interaction force [-18.23680193 -14.33884517   0.        ]
+
+Atom # 19, coordinates [2.9875411  3.98356094 0.        ], distance to Ag 190251.94619978953
+Interaction force [ -9.40961581 -12.75162332   0.        ]
+
+Atom # 20, coordinates [3.98202718 3.99078889 0.        ], distance to Ag 190251.9397947042
+Interaction force [-13.79185245  -7.25157746   0.        ]
+
+
+Step 188
+Atom # 1, coordinates [1.01826298 0.80936083 0.        ], distance to Ag 196700.43650645533
+Interaction force [13.86697676  7.29477461  0.        ]
+
+Atom # 2, coordinates [2.01265922 0.81670521 0.        ], distance to Ag 196700.43015635433
+Interaction force [ 9.45774102 12.82381267  0.        ]
+
+Atom # 16, coordinates [3.97583058 3.18052026 0.        ], distance to Ag 196701.70650263972
+Interaction force [-18.33576694 -14.40929455   0.        ]
+
+Atom # 19, coordinates [2.98734078 3.98329479 0.        ], distance to Ag 196702.15722841775
+Interaction force [ -9.45774102 -12.82381267   0.        ]
+
+Atom # 20, coordinates [3.98173702 3.99063917 0.        ], distance to Ag 196702.15088844518
+Interaction force [-13.86697676  -7.29477461   0.        ]
+
+
+Step 189
+Atom # 1, coordinates [1.01855625 0.80951218 0.        ], distance to Ag 203258.1683301097
+Interaction force [13.94212206  7.33806105  0.        ]
+
+Atom # 2, coordinates [2.01286166 0.81697424 0.        ], distance to Ag 203258.16204613514
+Interaction force [ 9.5058112  12.89607812  0.        ]
+
+Atom # 16, coordinates [3.97544255 3.18020954 0.        ], distance to Ag 203259.43807486503
+Interaction force [-18.43474964 -14.47959925   0.        ]
+
+Atom # 19, coordinates [2.98713834 3.98302576 0.        ], distance to Ag 203259.88881893616
+Interaction force [ -9.5058112  -12.89607812   0.        ]
+
+Atom # 20, coordinates [3.98144375 3.99048782 0.        ], distance to Ag 203259.88254476117
+Interaction force [-13.94212206  -7.33806105   0.        ]
+
+
+Step 190
+Atom # 1, coordinates [1.01885266 0.80966518 0.        ], distance to Ag 209923.42071782355
+Interaction force [14.01728858  7.3814377   0.        ]
+
+Atom # 2, coordinates [2.01306623 0.81724617 0.        ], distance to Ag 209923.4145006482
+Interaction force [ 9.5538257  12.96842042  0.        ]
+
+Atom # 16, coordinates [3.97505037 3.17989557 0.        ], distance to Ag 209924.69020870744
+Interaction force [-18.53375013 -14.54975765   0.        ]
+
+Atom # 19, coordinates [2.98693377 3.98275383 0.        ], distance to Ag 209925.14097132717
+Interaction force [ -9.5538257  -12.96842042   0.        ]
+
+Atom # 20, coordinates [3.98114734 3.99033482 0.        ], distance to Ag 209925.13476363829
+Interaction force [-14.01728858  -7.3814377    0.        ]
+
+
+Step 191
+Atom # 1, coordinates [1.0191522  0.80981983 0.        ], distance to Ag 216696.19366960562
+Interaction force [14.09247655  7.42490546  0.        ]
+
+Atom # 2, coordinates [2.01327295 0.817521   0.        ], distance to Ag 216696.18751990705
+Interaction force [ 9.60178382 13.04084032  0.        ]
+
+Atom # 16, coordinates [3.97465404 3.17957835 0.        ], distance to Ag 216697.46290415418
+Interaction force [-18.63276854 -14.61976809   0.        ]
+
+Atom # 19, coordinates [2.98672705 3.982479   0.        ], distance to Ag 216697.91368557385
+Interaction force [ -9.60178382 -13.04084032   0.        ]
+
+Atom # 20, coordinates [3.9808478  3.99018017 0.        ], distance to Ag 216697.90754506327
+Interaction force [-14.09247655  -7.42490546   0.        ]
+
+
+Step 192
+Atom # 1, coordinates [1.01945491 0.80997616 0.        ], distance to Ag 223576.4871854646
+Interaction force [14.1676862   7.46846527  0.        ]
+
+Atom # 2, coordinates [2.01348182 0.81779877 0.        ], distance to Ag 223576.48110392486
+Interaction force [ 9.6496849  13.11333857  0.        ]
+
+Atom # 16, coordinates [3.97425352 3.17925784 0.        ], distance to Ag 223577.75616119287
+Interaction force [-18.73180495 -14.68962894   0.        ]
+
+Atom # 19, coordinates [2.98651818 3.98220123 0.        ], distance to Ag 223578.2069616597
+Interaction force [ -9.6496849  -13.11333857   0.        ]
+
+Atom # 20, coordinates [3.98054509 3.99002384 0.        ], distance to Ag 223578.20088902328
+Interaction force [-14.1676862   -7.46846527   0.        ]
+
+
+Step 193
+Atom # 1, coordinates [1.0197608  0.81013416 0.        ], distance to Ag 230564.3012654088
+Interaction force [14.24291776  7.51211805  0.        ]
+
+Atom # 2, coordinates [2.01369286 0.81807947 0.        ], distance to Ag 230564.29525271457
+Interaction force [ 9.69752824 13.18591591  0.        ]
+
+Atom # 16, coordinates [3.97384881 3.17893404 0.        ], distance to Ag 230565.56997981126
+Interaction force [-18.83085949 -14.75933852   0.        ]
+
+Atom # 19, coordinates [2.98630714 3.98192053 0.        ], distance to Ag 230566.02079956865
+Interaction force [ -9.69752824 -13.18591591   0.        ]
+
+Atom # 20, coordinates [3.9802392  3.98986584 0.        ], distance to Ag 230566.01479550602
+Interaction force [-14.24291776  -7.51211805   0.        ]
+
+
+Step 194
+Atom # 1, coordinates [1.02006988 0.81029384 0.        ], distance to Ag 237659.63590944654
+Interaction force [14.31817146  7.55586472  0.        ]
+
+Atom # 2, coordinates [2.01390607 0.81836314 0.        ], distance to Ag 237659.62996628895
+Interaction force [ 9.74531315 13.25857309  0.        ]
+
+Atom # 16, coordinates [3.97343987 3.17860693 0.        ], distance to Ag 237660.9043599976
+Interaction force [-18.92993225 -14.82889516   0.        ]
+
+Atom # 19, coordinates [2.98609393 3.98163686 0.        ], distance to Ag 237661.3551992852
+Interaction force [ -9.74531315 -13.25857309   0.        ]
+
+Atom # 20, coordinates [3.97993012 3.98970616 0.        ], distance to Ag 237661.34926449967
+Interaction force [-14.31817146  -7.55586472   0.        ]
+
+
+Step 195
+Atom # 1, coordinates [1.02038218 0.81045523 0.        ], distance to Ag 244862.49111758586
+Interaction force [14.39344753  7.59970623  0.        ]
+
+Atom # 2, coordinates [2.01412147 0.81864978 0.        ], distance to Ag 244862.48524466046
+Interaction force [ 9.79303893 13.33131087  0.        ]
+
+Atom # 16, coordinates [3.97302668 3.17827649 0.        ], distance to Ag 244863.75930174012
+Interaction force [-19.02902334 -14.89829719   0.        ]
+
+Atom # 19, coordinates [2.98587853 3.98135022 0.        ], distance to Ag 244864.21016079417
+Interaction force [ -9.79303893 -13.33131087   0.        ]
+
+Atom # 20, coordinates [3.97961782 3.98954477 0.        ], distance to Ag 244864.2042959927
+Interaction force [-14.39344753  -7.59970623   0.        ]
+
+
+Step 196
+Atom # 1, coordinates [1.02069771 0.81061831 0.        ], distance to Ag 252172.86688983467
+Interaction force [14.4687462   7.64364351  0.        ]
+
+Atom # 2, coordinates [2.01433906 0.81893941 0.        ], distance to Ag 252172.8610878414
+Interaction force [ 9.84070487 13.40413001  0.        ]
+
+Atom # 16, coordinates [3.97260922 3.17794271 0.        ], distance to Ag 252174.1348050275
+Interaction force [-19.12813286 -14.96754289   0.        ]
+
+Atom # 19, coordinates [2.98566094 3.98106059 0.        ], distance to Ag 252174.58568408072
+Interaction force [ -9.84070487 -13.40413001   0.        ]
+
+Atom # 20, coordinates [3.97930229 3.98938169 0.        ], distance to Ag 252174.57988997415
+Interaction force [-14.4687462   -7.64364351   0.        ]
+
+
+Step 197
+Atom # 1, coordinates [1.02101648 0.81078312 0.        ], distance to Ag 259590.76322620077
+Interaction force [14.54406772  7.68767749  0.        ]
+
+Atom # 2, coordinates [2.01455886 0.81923205 0.        ], distance to Ag 259590.75749584383
+Interaction force [ 9.88831027 13.47703125  0.        ]
+
+Atom # 16, coordinates [3.97218747 3.17760558 0.        ], distance to Ag 259592.03086984856
+Interaction force [-19.2272609  -15.03663057   0.        ]
+
+Atom # 19, coordinates [2.98544114 3.98076795 0.        ], distance to Ag 259592.4817691305
+Interaction force [ -9.88831027 -13.47703125   0.        ]
+
+Atom # 20, coordinates [3.97898352 3.98921688 0.        ], distance to Ag 259592.47604643315
+Interaction force [-14.54406772  -7.68767749   0.        ]
+
+
+Step 198
+Atom # 1, coordinates [1.02133851 0.81094965 0.        ], distance to Ag 267116.1801266918
+Interaction force [14.61941231  7.73180913  0.        ]
+
+Atom # 2, coordinates [2.01478088 0.81952772 0.        ], distance to Ag 267116.17446867976
+Interaction force [ 9.9358544  13.55001536  0.        ]
+
+Atom # 16, coordinates [3.9717614  3.17726507 0.        ], distance to Ag 267117.44749619224
+Interaction force [-19.32640756 -15.1055585    0.        ]
+
+Atom # 19, coordinates [2.98521912 3.98047228 0.        ], distance to Ag 267117.8984159293
+Interaction force [ -9.9358544  -13.55001536   0.        ]
+
+Atom # 20, coordinates [3.97866149 3.98905035 0.        ], distance to Ag 267117.8927653593
+Interaction force [-14.61941231  -7.73180913   0.        ]
+
+
+Step 199
+Atom # 1, coordinates [1.02166383 0.81111791 0.        ], distance to Ag 274749.11759131536
+Interaction force [14.69478021  7.77603937  0.        ]
+
+Atom # 2, coordinates [2.01500512 0.81982642 0.        ], distance to Ag 274749.1120063609
+Interaction force [ 9.98333654 13.6230831   0.        ]
+
+Atom # 16, coordinates [3.971331   3.17692118 0.        ], distance to Ag 274750.3846840478
+Interaction force [-19.42557294 -15.17432495   0.        ]
+
+Atom # 19, coordinates [2.98499488 3.98017358 0.        ], distance to Ag 274750.83562446333
+Interaction force [ -9.98333654 -13.6230831    0.        ]
+
+Atom # 20, coordinates [3.97833617 3.98888209 0.        ], distance to Ag 274750.8300467426
+Interaction force [-14.69478021  -7.77603937   0.        ]
+
+
+Step 200
+Atom # 1, coordinates [1.02199244 0.81128793 0.        ], distance to Ag 282489.5756200788
+Interaction force [14.77017167  7.82036916  0.        ]
+
+Atom # 2, coordinates [2.01523161 0.82012818 0.        ], distance to Ag 282489.5701088989
+Interaction force [10.03075597 13.69623523  0.        ]
+
+Atom # 16, coordinates [3.97089625 3.17657389 0.        ], distance to Ag 282490.84243340447
+Interaction force [-19.52475712 -15.24292818   0.        ]
+
+Atom # 19, coordinates [2.98476839 3.97987182 0.        ], distance to Ag 282491.29339471896
+Interaction force [-10.03075597 -13.69623523   0.        ]
+
+Atom # 20, coordinates [3.97800756 3.98871207 0.        ], distance to Ag 282491.2878905729
+Interaction force [-14.77017167  -7.82036916   0.        ]
+
