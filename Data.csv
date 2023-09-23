@@ -11,7 +11,7 @@ AlSigma;3.253
 AlEps;0.2703
 AlAlpha;1.1646
 TimeStep;1.00E-16
-Steps;200
+Steps;1500
 OutputFrequency;5
 Borders;[[0, 4], [0, 4], [0, 4]]
 OutputFileName;output.dump
