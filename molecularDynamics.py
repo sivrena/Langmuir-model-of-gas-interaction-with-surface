@@ -1,10 +1,12 @@
 import Dump
 import fileForces
+import graphResults
 
 import numpy as np
 import os
 import pandas as pd
 import json
+import matplotlib.pyplot as plt
 
 AgEpsilon: float
 AgSigma: float
@@ -21,7 +23,7 @@ def LennardJones (Positions, Forces, Velocities): #подсчет потенци
 
     for i in range (1, atomsNum):
         radius = Radius(Positions, 0, i)
-        force = 48 * AgEpsilon * ((AgSigma ** 12) / (radius ** 7) - (AgSigma ** 6) / (radius ** 7))
+        force = 48 * AgEpsilon * ((AgSigma ** 12) / (radius ** 13) - (AgSigma ** 6) / (radius ** 7))
 
         Forces[0][0] += -(Positions[0][0] - Positions[i][0]) * force / radius
         Forces[0][1] += -(Positions[0][1] - Positions[i][1]) * force / radius
@@ -137,6 +139,8 @@ def start():
         parameters['TimeStep'], parameters['Steps'], parameters['OutputFrequency'], \
         parameters['Borders'], parameters['OutputFileName']
 
+    forcesOutput = "nearestAtomsForces.txt"
+
     dim = len(Borders)  # Вычислние размерности
 
     #Преобразование значений в массивы для удобства вычислений
@@ -166,7 +170,7 @@ def start():
         coeff = 1 / ((AlNumOfAtoms + 1) // 4)
 
     for i in range(0, AlNumOfAtoms):
-        AlPositions[i][0], AlPositions[i][1] = 1 / 4 + i % 4 * 1 / 4, i // 4 * coeff + coeff
+        AlPositions[i][0], AlPositions[i][1] = 1 / 4 + i % 4 * 1 / 4, i // 4 * (coeff) + coeff
 
     for i in range(dim):  # Подгонка значений относительно границ области
         AlPositions[:, i] = Borders[i][0] + (Borders[i][1] - Borders[i][0]) * AlPositions[:, i]
@@ -180,11 +184,18 @@ def start():
 
     if os.path.exists(OutputFileName):
         os.remove(OutputFileName)
+    if os.path.exists(forcesOutput):
+        os.remove(forcesOutput)
 
     nearestAtoms = findNearestAtoms(Positions, Velocities)
     nearestAtoms.sort()
 
     nearestForces = np.array([[[0.0 for i in range(dim)]for j in range (len(nearestAtoms))]for k in range (Steps+1)])
+
+    graphLJ_X = np.array([0.0 for i in range(Steps)])
+    graphLJ_Y = np.array([0.0 for i in range(Steps)])
+    graphMorze_X = np.array([0.0 for i in range(Steps)])
+    graphMorze_Y = np.array([0.0 for i in range(Steps)])
 
     step = 0
     prevPositions = np.array([[0.0 for i in range(dim)] for j in range(len(Velocities))])
@@ -200,12 +211,18 @@ def start():
         for i in range (len(nearestAtoms)):
             nearestForces[step-1][i] += Forces[nearestAtoms[i]]
 
+        #Рассчет данных для построения графика потенциала Леннарда-Джонса
+        #graphResults.graphLennardJones(Positions, nearestAtoms[4], AgEpsilon, AgSigma, step, graphLJ_X, graphLJ_Y)
+
         # Запись в файл данных о взаимодействии атома Ag c ближайшими атомами металла
-        fileForces.writeOutput(nearestForces, nearestAtoms, step, Positions)
+        fileForces.writeOutput(nearestForces, nearestAtoms, step, Positions, forcesOutput)
 
         # Подсчет потенциалов и вычисление сил. Вычисление ускорений.
         Morze(Positions, Forces, Velocities)
         Accelerations = Acceleration(Masses, Forces, Velocities)
+
+        #Рассчет данных для построения графика потенциала Морзе
+        #graphResults.graphMorze(Positions, nearestAtoms[0], nearestAtoms[4], AlEps, AlAlpha, step, graphMorze_X, graphMorze_Y)
 
         # Подсчет новых координат атомов
         if (step == 1):
@@ -222,3 +239,23 @@ def start():
 
         Dump.writeOutput(OutputFileName, AlNumOfAtoms + 1, step, Borders,
                          radius=Radius, pos=Positions, v=Velocities)
+
+    # Построение графика потенциала Леннарда-Джонса
+    # plt.plot(graphLJ_X, graphLJ_Y)
+    # plt.xlabel('r')
+    # plt.ylabel('V(r)')
+    # plt.savefig('graphLJ.jpg', bbox_inches='tight')
+    # plt.show()
+    # Построение графика потенциала Морзе
+    # plt.plot(graphMorze_X, graphMorze_Y)
+    # plt.xlabel('r')
+    # plt.ylabel('V(r)')
+    # plt.savefig('graphMorze.jpg', bbox_inches='tight')
+    # plt.show()
+
+    #Построение графиков силы взаимодейтсвия атома Ag с ближайшими атомами металлической поверхности
+    graphResults.graphForces(nearestForces, 0, Steps)
+    graphResults.graphForces(nearestForces, 1, Steps)
+    graphResults.graphForces(nearestForces, 2, Steps)
+    graphResults.graphForces(nearestForces, 3, Steps)
+    graphResults.graphForces(nearestForces, 4, Steps)
