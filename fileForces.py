@@ -1,8 +1,8 @@
 import numpy as np
 
-def writeOutput(forces, atoms, step, Positions):
+def writeOutput(forces, atoms, step, Positions, forcesOutput):
 
-    fw = open ("nearestAtomsForces.txt", "a")
+    fw = open (forcesOutput, "a")
     fw.write("\nStep " + str(step) + "\n")
 
     for i in range (len(atoms)):
